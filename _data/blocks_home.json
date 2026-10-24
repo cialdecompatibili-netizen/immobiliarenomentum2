@@ -3,42 +3,54 @@
     "id": "hero",
     "nome": "Hero",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Il tuo settore, in due parole</p><h1 class=\"gc-h1\">Dì in una riga cosa fai, <em>senza giri di parole.</em></h1><p class=\"gc-lead\">Racconta in due righe chi sei, che problema risolvi e per chi. Scrivila come la diresti a voce a un cliente: semplice e diretta.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/contatti/\">Scrivici</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/servizi/\">Vedi cosa facciamo</a></div></div><div class=\"ent-cycle\"><div><b>Ci racconti cosa ti serve</b><span>Senza impegno, anche solo per capire da dove partire</span></div><div><b>Ti proponiamo una soluzione</b><span>Chiara, con tempi e costi detti prima</span></div><div><b>Ci mettiamo al lavoro</b><span>Ti aggiorniamo a ogni passaggio</span></div><div><b>Consegna e assistenza</b><span>Restiamo a disposizione anche dopo</span></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Mentana, Monterotondo e Roma nord</p><h1 class=\"gc-h1\">Quanto vale la tua casa? <em>Scoprilo gratis.</em></h1><p class=\"gc-lead\">Compravendita, locazioni e consulenza sul mutuo a Mentana, Monterotondo e Roma nord. Un solo referente dalla prima visita al rogito.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/vendi/\">Valuta la tua casa</a><a class=\"gc-btn gc-btn-o\" href=\"#immobili\">Vedi gli immobili</a></div></div><div class=\"ent-cycle\"><div><b>Valutazione gratuita</b><span>risposta entro 24 ore</span></div><div><b>Un solo referente</b><span>dalla visita al rogito</span></div><div><b>Mentana e Roma nord</b><span>Monterotondo, Fonte Nuova</span></div></div></div></section></div>"
   },
   {
-    "id": "contesto",
-    "nome": "Il contesto",
+    "id": "immobili",
+    "nome": "Immobili in evidenza",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"contesto\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Qualche numero</p><h2 class=\"gc-h2\">Perché è un tema che conta</h2><p class=\"gc-lead\">Una frase che spiega il contesto, con un dato vero e la sua fonte. Se non ne hai, togli questa fascia.</p><div class=\"ent-stats\"><div><b>00</b><span>Dato da inserire</span></div><div><b>00</b><span>Dato da inserire</span></div><div><b>00</b><span>Dato da inserire</span></div></div><p class=\"ent-src\">Fonte: scrivi da dove arriva il dato.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"immobili\"><div class=\"gc-wrap\"><div class=\"im-head\"><div><p class=\"gc-eyebrow\">Immobili</p><h2 class=\"gc-h2\">Selezione in evidenza</h2></div><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/contatti/\">Richiedi la ricerca su misura</a></div><div class=\"gc-plat\"><a class=\"gc-pl im-card\" href=\"__BASEURL__/contatti/?immobile=villa-vendita\"><img class=\"im-ph\" src=\"__BASEURL__/assets/foto/agenzia/casa-giardino.jpg\" width=\"800\" height=\"600\" loading=\"lazy\" alt=\"Villa a Mentana con giardino\"><span class=\"gc-eyebrow\">In vendita</span><b>Villa su tre piani con giardino</b><p>Mentana, zona Mezzaluna</p><ul class=\"im-meta\"><li>3 piani</li><li>9 camere</li><li>6 bagni</li></ul><span class=\"im-price\">500.000 &#8364; con terreno agricolo</span></a><a class=\"gc-pl im-card\" href=\"__BASEURL__/contatti/?immobile=villa-affitto\"><img class=\"im-ph\" src=\"__BASEURL__/assets/foto/agenzia/casa-giardino.jpg\" width=\"800\" height=\"600\" loading=\"lazy\" alt=\"Villa a Mentana con giardino\"><span class=\"gc-eyebrow\">In affitto</span><b>Villa o singoli piani in affitto</b><p>Mentana, zona Mezzaluna</p><ul class=\"im-meta\"><li>18 posti letto</li><li>3 appartamenti</li><li>Giardino</li></ul><span class=\"im-price\">Prezzo su richiesta</span></a><a class=\"gc-pl im-card\" href=\"__BASEURL__/contatti/?immobile=terreno\"><img class=\"im-ph\" src=\"__BASEURL__/assets/foto/agenzia/casa-giardino.jpg\" width=\"800\" height=\"600\" loading=\"lazy\" alt=\"Terreno agricolo\"><span class=\"gc-eyebrow\">In vendita</span><b>Terreno agricolo di circa 600 m&#178;</b><p>Mentana, vicino alla villa</p><ul class=\"im-meta\"><li>600 m&#178; circa</li><li>Agricolo</li></ul><span class=\"im-price\">Incluso con la villa</span></a></div><p class=\"gc-lead\">Altri immobili in arrivo. Cerchi qualcosa di specifico? Descrivici la ricerca.</p></div></section></div>"
   },
   {
     "id": "servizi",
     "nome": "Servizi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"servizi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Cosa facciamo</p><h2 class=\"gc-h2\">Come possiamo darti una mano</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><span class=\"n\">01</span><b>Il servizio principale</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">02</span><b>Un secondo servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">03</span><b>Un terzo servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">04</span><b>Un quarto servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div></div><p style=\"margin-top:1.6rem\"><a class=\"gc-link\" href=\"__BASEURL__/servizi/\">Guarda tutti i servizi</a></p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"servizi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Servizi</p><h2 class=\"gc-h2\">Tutto quello che serve a una compravendita</h2><p class=\"gc-lead\">Dalla stima alla consegna delle chiavi, ogni passaggio seguito da professionisti.</p><div class=\"gc-plat im-3\"><div class=\"gc-pl\"><b>Compravendita</b><p>Ricerca, visite, trattativa e assistenza fino al rogito.</p></div><div class=\"gc-pl\"><b>Valutazione gratuita</b><p>Stima ragionata del valore, basata su zona, stato e mercato.</p></div><div class=\"gc-pl\"><b>Locazioni</b><p>Contratti di locazione, anche transitori, con gestione completa.</p></div><div class=\"gc-pl\"><b>Mutui e finanziamenti</b><p>Consulenza con mediatore creditizio e verifica di fattibilit&#224;.</p></div><div class=\"gc-pl\"><b>Home staging</b><p>Preparazione della casa per mostrarla al meglio e venderla prima.</p></div><div class=\"gc-pl\"><b>Foto e virtual tour</b><p>Servizio fotografico professionale, video e tour virtuale.</p></div><div class=\"gc-pl\"><b>Consulenza legale e notarile</b><p>Verifica documenti, proposte, preliminari e rapporto con il notaio.</p></div><div class=\"gc-pl\"><b>Pratiche catastali e APE</b><p>Visure, planimetrie, conformit&#224; e attestato di prestazione energetica.</p></div><div class=\"gc-pl\"><b>Ristrutturazioni</b><p>Progetti e preventivi con professionisti di fiducia.</p></div></div></div></section></div>"
   },
   {
-    "id": "perchi",
-    "nome": "Per chi",
+    "id": "vendi",
+    "nome": "Vendi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"perchi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">A chi ci rivolgiamo</p><h2 class=\"gc-h2\">Chi si trova bene con noi</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><b>Privati</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Professionisti</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Piccole aziende</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Enti e associazioni</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"vendi\"><div class=\"gc-wrap\"><div class=\"gc-2c\"><div><p class=\"gc-eyebrow\">Vendi con noi</p><h2 class=\"gc-h2\">Quanto vale la tua casa?</h2><p class=\"gc-lead\">Ti diamo una valutazione gratuita e un piano di vendita chiaro: prezzo, tempi, promozione e visite.</p><ul class=\"gc-list\"><li><b>Stima realistica</b> basata sui prezzi effettivi di zona.</li><li><b>Promozione curata</b> con foto professionali e annunci sui principali portali.</li><li><b>Visite selezionate</b>, solo con acquirenti qualificati.</li><li><b>Assistenza fino al rogito</b>, documenti compresi.</li></ul><p style=\"margin-top:1.5rem\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/vendi/\">Richiedi la valutazione</a></p></div><div><img class=\"im-ph\" src=\"__BASEURL__/assets/foto/agenzia/casa-moderna.jpg\" width=\"1400\" height=\"933\" loading=\"lazy\" alt=\"Casa con piscina e giardino\"></div></div></div></section></div>"
+  },
+  {
+    "id": "mutui",
+    "nome": "Mutui",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"mutui\"><div class=\"gc-wrap\"><div class=\"gc-2c\"><div><img class=\"im-ph\" src=\"__BASEURL__/assets/foto/agenzia/chiavi-rogito.jpg\" width=\"1400\" height=\"935\" loading=\"lazy\" alt=\"Chiavi di casa e modellino\"></div><div><p class=\"gc-eyebrow\">Mutui</p><h2 class=\"gc-h2\">Il mutuo giusto, prima di scegliere la casa</h2><p class=\"gc-lead\">Con un mediatore creditizio verifichi quanto puoi chiedere e confronti le offerte delle banche prima di fare una proposta.</p><ul class=\"gc-list\"><li><b>Prequalifica</b> sulla tua situazione reddituale.</li><li><b>Confronto</b> tra tasso fisso, variabile e misto.</li><li><b>Pratica seguita</b> fino all&#39;erogazione.</li></ul><p style=\"margin-top:1.5rem\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/contatti/\">Parla con un consulente</a></p></div></div></div></section></div>"
   },
   {
     "id": "metodo",
     "nome": "Come lavoriamo",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"metodo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Come lavoriamo</p><h2 class=\"gc-h2\">Dalla prima chiamata alla consegna</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl\"><span class=\"n\">01</span><b>Ci parliamo</b><p>Ascoltiamo cosa ti serve, senza impegno.</p></div><div class=\"gc-pl\"><span class=\"n\">02</span><b>Ti facciamo una proposta</b><p>Tempi e costi chiari, prima di iniziare.</p></div><div class=\"gc-pl\"><span class=\"n\">03</span><b>Ci mettiamo al lavoro</b><p>Ti teniamo aggiornato a ogni passaggio.</p></div><div class=\"gc-pl\"><span class=\"n\">04</span><b>Consegniamo e restiamo a disposizione</b><p>Se dopo serve qualcosa, ci trovi.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"metodo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Come lavoriamo</p><h2 class=\"gc-h2\">Quattro passaggi, un solo referente</h2><ol class=\"im-steps\"><li><b>Ascolto</b><span>Capiamo che cosa cerchi o vuoi vendere.</span></li><li><b>Strategia</b><span>Prezzo, tempi e canali di promozione.</span></li><li><b>Trattativa</b><span>Visite, proposte e negoziazione.</span></li><li><b>Rogito</b><span>Documenti, notaio e consegna delle chiavi.</span></li></ol></div></section></div>"
   },
   {
-    "id": "avvisi",
-    "nome": "Blog",
+    "id": "zone",
+    "nome": "Zone",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"avvisi\"><div class=\"gc-wrap gc-2c\"><div><p class=\"gc-eyebrow\">Dal blog</p><h2 class=\"gc-h2\">Cose che ti possono servire</h2><p class=\"gc-lead\">Guide brevi e novità, scritte in modo semplice.</p><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/blog/\">Vai al blog</a></div><div class=\"gc-pl\"><span class=\"n\">ULTIMO ARTICOLO</span><b>Il titolo del tuo ultimo articolo</b><p>Due righe per far venire voglia di leggerlo.</p></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"zone\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Zone</p><h2 class=\"gc-h2\">Dove operiamo</h2><div class=\"gc-badges im-zone\"><span class=\"gc-badge\">Mentana</span><span class=\"gc-badge\">Monterotondo</span><span class=\"gc-badge\">Fonte Nuova</span><span class=\"gc-badge\">Roma nord</span><span class=\"gc-badge\">Nomentano</span><span class=\"gc-badge\">Sabina</span></div></div></section></div>"
   },
   {
-    "id": "contatti",
-    "nome": "Contatti",
+    "id": "richiesta",
+    "nome": "Contatto",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"contatti\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contatti</p><h2 class=\"gc-h2\">Scriviamoci</h2><p class=\"gc-lead\">Raccontaci di cosa hai bisogno, ti rispondiamo appena possibile.</p><a class=\"gc-btn\" href=\"__BASEURL__/contatti/\">Scrivici</a></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"contatto\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contatti</p><h2 class=\"gc-h2\">Parliamo del tuo immobile</h2><p class=\"gc-lead\">Compri, vendi o cerchi in affitto: raccontaci cosa ti serve e ti richiamiamo.</p><a class=\"gc-btn\" href=\"__BASEURL__/contatti/\">Contattaci</a></div></section></div>"
+  },
+  {
+    "id": "barra",
+    "nome": "Barra contatto mobile",
+    "enabled": true,
+    "html": "<div class=\"im-bar\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/contatti/\">Valuta la tua casa</a></div>"
   }
 ]

@@ -2,12 +2,12 @@
   "_nota": "Catalogo dello shop (serve solo con ecommerce: true in _config.yml). Prezzi in CENTESIMI. Ogni prodotto/categoria ha anche una pagina in _negozio/ (layout negozio-prodotto con pid=<id>, negozio-categoria con cid=<id>). L'id categoria e' riservato. tipo: digitale (niente spedizione) o fisico. visibile:false nasconde senza cancellare. TRADUZIONI: ogni categoria/prodotto puo' avere \"tr\": {\"en\": {\"nome\": \"...\", \"descrizione\": \"...\", \"descrizione_completa\": \"...\"}}; campo mancante = si usa l'italiano.",
   "categorie": [
     {
-      "nome": "Esempio",
-      "id": "esempio",
-      "icona": "🛍️",
+      "nome": "Servizi",
+      "id": "servizi-agenzia",
+      "icona": "🏠",
       "tr": {
         "en": {
-          "nome": "Example"
+          "nome": "Services"
         }
       }
     }
@@ -15,20 +15,77 @@
   "prodotti": [
     {
       "tipo": "digitale",
-      "id": "prodotto-esempio",
-      "nome": "Prodotto di esempio",
-      "categoria": "esempio",
-      "prezzo_centesimi": 1000,
-      "descrizione": "Descrizione breve del prodotto di esempio.",
-      "descrizione_completa": "Descrizione completa del prodotto.\nOgni riga diventa un paragrafo.",
+      "id": "home-staging",
+      "nome": "Home staging",
+      "categoria": "servizi-agenzia",
+      "prezzo_centesimi": 0,
+      "descrizione": "Preparazione della casa per mostrarla al meglio e venderla prima.",
+      "descrizione_completa": "Preparazione della casa per mostrarla al meglio e venderla prima.",
       "immagine": "",
-      "icona": "🛍️",
-      "visibile": true,
+      "icona": "🏠",
+      "visibile": false,
       "tr": {
         "en": {
-          "nome": "Example product",
-          "descrizione": "Short description of the example product.",
-          "descrizione_completa": "Full description of the product.\nEach line becomes a paragraph."
+          "nome": "Home staging",
+          "descrizione": "Preparing the home to show it at its best and sell sooner.",
+          "descrizione_completa": "Preparing the home to show it at its best and sell sooner."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "foto-virtual-tour",
+      "nome": "Foto e virtual tour",
+      "categoria": "servizi-agenzia",
+      "prezzo_centesimi": 0,
+      "descrizione": "Servizio fotografico professionale, video e tour virtuale.",
+      "descrizione_completa": "Servizio fotografico professionale, video e tour virtuale.",
+      "immagine": "",
+      "icona": "🏠",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Photos and virtual tour",
+          "descrizione": "Professional photography, video and virtual tour.",
+          "descrizione_completa": "Professional photography, video and virtual tour."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "pratiche-catastali-ape",
+      "nome": "Pratiche catastali e APE",
+      "categoria": "servizi-agenzia",
+      "prezzo_centesimi": 0,
+      "descrizione": "Visure, planimetrie, conformità e attestato di prestazione energetica.",
+      "descrizione_completa": "Visure, planimetrie, conformità e attestato di prestazione energetica.",
+      "immagine": "",
+      "icona": "🏠",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Land registry and energy certificate",
+          "descrizione": "Searches, floor plans, compliance and the energy performance certificate.",
+          "descrizione_completa": "Searches, floor plans, compliance and the energy performance certificate."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "consulenza-mutuo",
+      "nome": "Consulenza mutuo",
+      "categoria": "servizi-agenzia",
+      "prezzo_centesimi": 0,
+      "descrizione": "Consulenza con mediatore creditizio e verifica di fattibilità.",
+      "descrizione_completa": "Consulenza con mediatore creditizio e verifica di fattibilità.",
+      "immagine": "",
+      "icona": "🏠",
+      "visibile": false,
+      "tr": {
+        "en": {
+          "nome": "Mortgage advice",
+          "descrizione": "Advice with a credit broker and a feasibility check.",
+          "descrizione_completa": "Advice with a credit broker and a feasibility check."
         }
       }
     }

@@ -3,42 +3,54 @@
     "id": "hero",
     "nome": "Hero",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Your field, in a few words</p><h1 class=\"gc-h1\">Say what you do in one line, <em>no jargon.</em></h1><p class=\"gc-lead\">Tell visitors in a couple of lines who you are, what problem you solve and for whom. Write it the way you would say it to a client in person: simple and direct.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/en/contact/\">Get in touch</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/en/services/\">See what we do</a></div></div><div class=\"ent-cycle\"><div><b>Tell us what you need</b><span>No strings attached, even just to work out where to start</span></div><div><b>We suggest a solution</b><span>Clear, with timing and costs agreed upfront</span></div><div><b>We get to work</b><span>We keep you posted at every step</span></div><div><b>Delivery and support</b><span>We are still around afterwards</span></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Mentana, Monterotondo and north Rome</p><h1 class=\"gc-h1\">How much is your home worth? <em>Find out for free.</em></h1><p class=\"gc-lead\">Sales, rentals and mortgage advice in Mentana, Monterotondo and north Rome. One point of contact from the first viewing to the deed.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/en/sell/\">Value your home</a><a class=\"gc-btn gc-btn-o\" href=\"#immobili\">See the properties</a></div></div><div class=\"ent-cycle\"><div><b>Free valuation</b><span>reply within 24 hours</span></div><div><b>One point of contact</b><span>from viewing to deed</span></div><div><b>Mentana and north Rome</b><span>Monterotondo, Fonte Nuova</span></div></div></div></section></div>"
   },
   {
-    "id": "contesto",
-    "nome": "Context",
+    "id": "immobili",
+    "nome": "Immobili in evidenza",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"contesto\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">A few numbers</p><h2 class=\"gc-h2\">Why it matters</h2><p class=\"gc-lead\">One sentence setting the scene, with a real figure and its source. If you have none, remove this strip.</p><div class=\"ent-stats\"><div><b>00</b><span>Figure to add</span></div><div><b>00</b><span>Figure to add</span></div><div><b>00</b><span>Figure to add</span></div></div><p class=\"ent-src\">Source: say where the figure comes from.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"immobili\"><div class=\"gc-wrap\"><div class=\"im-head\"><div><p class=\"gc-eyebrow\">Properties</p><h2 class=\"gc-h2\">Featured selection</h2></div><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/en/contact/\">Request a tailored search</a></div><div class=\"gc-plat\"><a class=\"gc-pl im-card\" href=\"__BASEURL__/en/contact/?immobile=villa-vendita\"><img class=\"im-ph\" src=\"__BASEURL__/assets/foto/agenzia/casa-giardino.jpg\" width=\"800\" height=\"600\" loading=\"lazy\" alt=\"Villa in Mentana with a garden\"><span class=\"gc-eyebrow\">For sale</span><b>Three-storey villa with garden</b><p>Mentana, Mezzaluna area</p><ul class=\"im-meta\"><li>3 floors</li><li>9 bedrooms</li><li>6 bathrooms</li></ul><span class=\"im-price\">&#8364;500,000 with farmland</span></a><a class=\"gc-pl im-card\" href=\"__BASEURL__/en/contact/?immobile=villa-affitto\"><img class=\"im-ph\" src=\"__BASEURL__/assets/foto/agenzia/casa-giardino.jpg\" width=\"800\" height=\"600\" loading=\"lazy\" alt=\"Villa in Mentana with a garden\"><span class=\"gc-eyebrow\">For rent</span><b>Villa or single floors for rent</b><p>Mentana, Mezzaluna area</p><ul class=\"im-meta\"><li>18 beds</li><li>3 apartments</li><li>Garden</li></ul><span class=\"im-price\">Price on request</span></a><a class=\"gc-pl im-card\" href=\"__BASEURL__/en/contact/?immobile=terreno\"><img class=\"im-ph\" src=\"__BASEURL__/assets/foto/agenzia/casa-giardino.jpg\" width=\"800\" height=\"600\" loading=\"lazy\" alt=\"Farmland\"><span class=\"gc-eyebrow\">For sale</span><b>Farmland of about 600 m&#178;</b><p>Mentana, next to the villa</p><ul class=\"im-meta\"><li>About 600 m&#178;</li><li>Farmland</li></ul><span class=\"im-price\">Included with the villa</span></a></div><p class=\"gc-lead\">More properties coming soon. Looking for something specific? Describe your search.</p></div></section></div>"
   },
   {
     "id": "servizi",
-    "nome": "Services",
+    "nome": "Servizi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"servizi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">What we do</p><h2 class=\"gc-h2\">How we can help</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><span class=\"n\">01</span><b>The main service</b><ul><li>What it includes</li><li>Who it is for</li><li>What you get</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">02</span><b>A second service</b><ul><li>What it includes</li><li>Who it is for</li><li>What you get</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">03</span><b>A third service</b><ul><li>What it includes</li><li>Who it is for</li><li>What you get</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">04</span><b>A fourth service</b><ul><li>What it includes</li><li>Who it is for</li><li>What you get</li></ul></div></div><p style=\"margin-top:1.6rem\"><a class=\"gc-link\" href=\"__BASEURL__/en/services/\">See all our services</a></p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"servizi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Services</p><h2 class=\"gc-h2\">Everything a property sale needs</h2><p class=\"gc-lead\">From the valuation to the handing over of the keys, every step handled by professionals.</p><div class=\"gc-plat im-3\"><div class=\"gc-pl\"><b>Buying and selling</b><p>Search, viewings, negotiation and assistance up to the deed.</p></div><div class=\"gc-pl\"><b>Free valuation</b><p>A reasoned estimate of the value, based on area, condition and market.</p></div><div class=\"gc-pl\"><b>Rentals</b><p>Rental contracts, including temporary ones, with full management.</p></div><div class=\"gc-pl\"><b>Mortgages and loans</b><p>Advice with a credit broker and a feasibility check.</p></div><div class=\"gc-pl\"><b>Home staging</b><p>Preparing the home to show it at its best and sell sooner.</p></div><div class=\"gc-pl\"><b>Photos and virtual tour</b><p>Professional photography, video and virtual tour.</p></div><div class=\"gc-pl\"><b>Legal and notary advice</b><p>Checking documents, offers, preliminary contracts and dealing with the notary.</p></div><div class=\"gc-pl\"><b>Land registry and energy certificate</b><p>Searches, floor plans, compliance and the energy performance certificate.</p></div><div class=\"gc-pl\"><b>Renovations</b><p>Projects and quotes with trusted professionals.</p></div></div></div></section></div>"
   },
   {
-    "id": "perchi",
-    "nome": "Who we work for",
+    "id": "vendi",
+    "nome": "Vendi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"perchi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Who we help</p><h2 class=\"gc-h2\">Who works well with us</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><b>Individuals</b><ul><li>A situation where people often look for us</li><li>A typical request</li></ul></div><div class=\"gc-pl ent-pl\"><b>Professionals</b><ul><li>A situation where people often look for us</li><li>A typical request</li></ul></div><div class=\"gc-pl ent-pl\"><b>Small businesses</b><ul><li>A situation where people often look for us</li><li>A typical request</li></ul></div><div class=\"gc-pl ent-pl\"><b>Organisations and associations</b><ul><li>A situation where people often look for us</li><li>A typical request</li></ul></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"vendi\"><div class=\"gc-wrap\"><div class=\"gc-2c\"><div><p class=\"gc-eyebrow\">Sell with us</p><h2 class=\"gc-h2\">How much is your home worth?</h2><p class=\"gc-lead\">We give you a free valuation and a clear sales plan: price, timing, promotion and viewings.</p><ul class=\"gc-list\"><li><b>Realistic estimate</b> based on actual prices in the area.</li><li><b>Careful promotion</b> with professional photos and listings on the main portals.</li><li><b>Selected viewings</b>, only with qualified buyers.</li><li><b>Assistance up to the deed</b>, documents included.</li></ul><p style=\"margin-top:1.5rem\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/en/sell/\">Request the valuation</a></p></div><div><img class=\"im-ph\" src=\"__BASEURL__/assets/foto/agenzia/casa-moderna.jpg\" width=\"1400\" height=\"933\" loading=\"lazy\" alt=\"House with a pool and a garden\"></div></div></div></section></div>"
+  },
+  {
+    "id": "mutui",
+    "nome": "Mutui",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"mutui\"><div class=\"gc-wrap\"><div class=\"gc-2c\"><div><img class=\"im-ph\" src=\"__BASEURL__/assets/foto/agenzia/chiavi-rogito.jpg\" width=\"1400\" height=\"935\" loading=\"lazy\" alt=\"House keys and a small model house\"></div><div><p class=\"gc-eyebrow\">Mortgages</p><h2 class=\"gc-h2\">The right mortgage, before choosing the home</h2><p class=\"gc-lead\">With a credit broker you check how much you can borrow and compare bank offers before making an offer.</p><ul class=\"gc-list\"><li><b>Pre-qualification</b> based on your income situation.</li><li><b>Comparison</b> between fixed, variable and mixed rates.</li><li><b>Application followed</b> through to payout.</li></ul><p style=\"margin-top:1.5rem\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/en/contact/\">Talk to an adviser</a></p></div></div></div></section></div>"
   },
   {
     "id": "metodo",
-    "nome": "How we work",
+    "nome": "Come lavoriamo",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"metodo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">How we work</p><h2 class=\"gc-h2\">From the first call to delivery</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl\"><span class=\"n\">01</span><b>We talk</b><p>We listen to what you need, no commitment.</p></div><div class=\"gc-pl\"><span class=\"n\">02</span><b>We send a proposal</b><p>Clear timing and costs before we begin.</p></div><div class=\"gc-pl\"><span class=\"n\">03</span><b>We get to work</b><p>We keep you updated along the way.</p></div><div class=\"gc-pl\"><span class=\"n\">04</span><b>We deliver and stay available</b><p>If you need anything afterwards, we are here.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"metodo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">How we work</p><h2 class=\"gc-h2\">Four steps, one point of contact</h2><ol class=\"im-steps\"><li><b>Listening</b><span>We understand what you are looking for or want to sell.</span></li><li><b>Strategy</b><span>Price, timing and promotion channels.</span></li><li><b>Negotiation</b><span>Viewings, offers and negotiation.</span></li><li><b>The deed</b><span>Documents, notary and handing over of the keys.</span></li></ol></div></section></div>"
   },
   {
-    "id": "avvisi",
-    "nome": "Blog",
+    "id": "zone",
+    "nome": "Zone",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"avvisi\"><div class=\"gc-wrap gc-2c\"><div><p class=\"gc-eyebrow\">From the blog</p><h2 class=\"gc-h2\">Things you might find useful</h2><p class=\"gc-lead\">Short guides and news, written in plain language.</p><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/en/blog/\">Go to the blog</a></div><div class=\"gc-pl\"><span class=\"n\">LATEST ARTICLE</span><b>The title of your latest article</b><p>A couple of lines to make people want to read it.</p></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"zone\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Areas</p><h2 class=\"gc-h2\">Where we work</h2><div class=\"gc-badges im-zone\"><span class=\"gc-badge\">Mentana</span><span class=\"gc-badge\">Monterotondo</span><span class=\"gc-badge\">Fonte Nuova</span><span class=\"gc-badge\">North Rome</span><span class=\"gc-badge\">Nomentano</span><span class=\"gc-badge\">Sabina</span></div></div></section></div>"
   },
   {
-    "id": "contatti",
-    "nome": "Contact",
+    "id": "richiesta",
+    "nome": "Contatto",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"contatti\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contact</p><h2 class=\"gc-h2\">Let&#39;s talk</h2><p class=\"gc-lead\">Tell us what you need and we will get back to you as soon as we can.</p><a class=\"gc-btn\" href=\"__BASEURL__/en/contact/\">Get in touch</a></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"contatto\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contact</p><h2 class=\"gc-h2\">Let&#39;s talk about your property</h2><p class=\"gc-lead\">Buying, selling or looking to rent: tell us what you need and we will call you back.</p><a class=\"gc-btn\" href=\"__BASEURL__/en/contact/\">Contact us</a></div></section></div>"
+  },
+  {
+    "id": "barra",
+    "nome": "Barra contatto mobile",
+    "enabled": true,
+    "html": "<div class=\"im-bar\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/en/contact/\">Value your home</a></div>"
   }
 ]

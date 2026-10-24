@@ -1,13 +1,15 @@
 main:
-  - title: "Home"
-    url: /en/
+  - title: "Properties"
+    url: /en/#immobili
+  - title: "Sell"
+    url: /en/sell/
+  - title: "Mortgages"
+    url: /en/#mutui
   - title: "Services"
-    url: /en/services/
+    url: /en/#servizi
   - title: "Blog"
     url: /en/blog/
   - title: "Shop"
     url: /en/shop/
-  - title: "About us"
-    url: /en/about-us/
   - title: "Contact"
     url: /en/contact/
