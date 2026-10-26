@@ -61,7 +61,7 @@ exclude:
   - README.md
 
 # Permalink di default degli articoli (categoria + titolo). Le lingue lo sovrascrivono in defaults.
-permalink: /:categories/:title/
+permalink: /blog/:categories/:title/
 
 timezone:
 
@@ -121,7 +121,7 @@ defaults:
     values:
       layout: single
       # Niente prefisso /en/: Jekyll aggiunge gia' la cartella (en) alle categorie degli articoli in en/_posts. Con /en/ davanti usciva /en/en/...
-      permalink: /:categories/:title/
+      permalink: /en/blog/:title/
   # lingua di base: tutto cio' che non e' in una cartella lingua e' `it` (filtra elenchi e selettore)
   - scope:
       path: ""
