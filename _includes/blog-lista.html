@@ -4,8 +4,13 @@
   Come funziona il click: il link del titolo ha un ::after che copre l'intera card (stretched link). Categoria e tag hanno z-index piu' alto,
   quindi restano cliccabili da soli. NON annidare altri <a> dentro un <a>. Nessun testo fisso: niente da tradurre qui (data e tag arrivano dai post).
   Impaginazione: data-pg / data-pg-item sono letti da assets/js/paginazione.js (per_page da _config.yml): non rinominare.
+  PILLOLE CATEGORIE (.blog-pills): stesso aspetto delle pillole del negozio. "Tutti" = pagina corrente, le altre sono link alla pagina categorie (stesso link di .blog-cat). Solo l'etichetta "Tutti/All" e' tradotta con page.lang.
 {%- endcomment -%}
 <style>
+.blog-pills{display:flex;flex-wrap:wrap;gap:.5rem;margin:1.2rem 0 0}
+.blog-pill{display:inline-block;border:1px solid var(--gc-line,#dee2e6);color:var(--gc-ink,#212529);border-radius:6px;padding:.25rem .8rem;font-size:.9rem;text-decoration:none!important;transition:border-color .15s,color .15s}
+.blog-pill:hover{border-color:var(--gc-acc,#0f2a43);color:var(--gc-acc,#0f2a43)}
+.blog-pill.on{background:var(--gc-acc,#0f2a43);border-color:var(--gc-acc,#0f2a43);color:#fff!important}
 .blog-list{list-style:none;margin:1.2rem 0 0;padding:0;display:flex;flex-direction:column;gap:.6rem}
 .blog-item{position:relative;display:flex;gap:1.1rem;align-items:stretch;padding:0;overflow:hidden;background:#fff;border:1px solid var(--gc-line,#e6e8ee);border-radius:14px;transition:border-color .2s,box-shadow .2s,transform .2s}
 .blog-item:hover{border-color:var(--gc-acc,#0f2a43);box-shadow:0 6px 18px rgba(30,40,80,.10);transform:translateY(-2px)}
@@ -27,6 +32,13 @@
 .blog-item:hover .blog-go{transform:translateX(3px)}
 @media(max-width:640px){.blog-item{flex-direction:column;gap:0}.blog-img{flex:none;width:100%;min-height:0;aspect-ratio:16/9}.blog-body{padding:.8rem 1rem 1rem}.blog-go{display:none}.blog-excerpt{-webkit-line-clamp:2}}
 </style>
+{%- assign bl_cats = posts_l | map: "categories" | join: "|" | split: "|" | uniq | sort -%}
+{%- if bl_cats.size > 0 %}
+<div class="blog-pills">
+<span class="blog-pill on">{% if page.lang == 'en' %}All{% else %}Tutti{% endif %}</span>
+{%- for c in bl_cats %}{% if c != "" %}<a class="blog-pill" href="{{ '/categories/#' | prepend: site.baseurl }}{{ c | slugify }}">{{ c }}</a>{% endif %}{% endfor %}
+</div>
+{%- endif %}
 <ul class="blog-list" data-pg data-pg-item="li.blog-item" data-per="{{ site.per_page | default: 20 }}">
 {%- for post in posts_l %}
   <li class="blog-item">
