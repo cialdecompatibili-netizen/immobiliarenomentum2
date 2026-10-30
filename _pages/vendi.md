@@ -60,7 +60,7 @@ ref: vendi
 <h2>Come vendere un appartamento</h2>
 <p>Per vendere un appartamento contano piano, esposizione, stato dell'impianto e spese condominiali. Prima della vendita controlliamo planimetria catastale, conformità edilizia, APE e situazione del condominio, così in trattativa non emergono sorprese che fanno scendere il prezzo.</p>
 
-<h2>Come vendere un villino o una villa</h2>
+<h2>Come vendere un villino</h2>
 <p>Un villino si vende diversamente da un appartamento: pesano giardino, superfici accessorie, box, eventuali ampliamenti e la loro regolarità urbanistica. Facciamo un sopralluogo, verifichiamo che tutto sia accatastato e in regola e costruiamo un annuncio che valorizza gli spazi esterni, che sono spesso il motivo della scelta.</p>
 
 <h2>Come vendere un terreno</h2>

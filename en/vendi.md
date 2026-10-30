@@ -64,7 +64,7 @@ tr_hash: ikn4ug
 <h2>How to sell an apartment</h2>
 <p>When selling an apartment, the floor, orientation, state of the systems and condominium costs all matter. Before the sale we check the cadastral floor plan, building compliance, energy certificate and the condominium situation, so no surprises come up during negotiation and push the price down.</p>
 
-<h2>How to sell a villa or small house</h2>
+<h2>How to sell a small house</h2>
 <p>A small house sells differently from an apartment: garden, outbuildings, garage, any extensions and whether they are legally in order all carry weight. We visit the property, check that everything is registered and compliant, and write a listing that highlights the outdoor space, which is often why buyers choose it.</p>
 
 <h2>How to sell land</h2>
