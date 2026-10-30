@@ -1,21 +1,28 @@
 {%- comment -%}
-GUIDA-SVILUPPO: "Potrebbe interessarti" in fondo agli articoli (versione locale dell'include del tema). Mostra gli articoli della STESSA lingua (posts_l). Il titolo viene da ui-text.yml (related_label);
+GUIDA-SVILUPPO: "Potrebbe interessarti" in fondo agli articoli (versione locale dell'include del tema). Mostra solo articoli della STESSA lingua (posts_l) E della STESSA categoria (almeno una categoria in comune): un articolo "mutui" vede solo articoli "mutui". Se non ce ne sono altri, la sezione non compare. Il titolo viene da ui-text.yml (related_label);
 head/custom.html lo traduce a runtime. Lo stile delle card e' in post-sidebar.html e main.scss.
 {%- endcomment -%}
 {%- assign posts_l = site.posts | where: "lang", page.lang -%}
 {% if page.related %}
-<div class="page__related">
-  <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
-  <div class="grid__wrapper">
-    {% assign count = 0 %}
+{%- assign rel_count = 0 -%}
+{%- capture rel_cards -%}
     {% for post in posts_l %}
       {% unless post.id == page.id %}
-        {% if count < 3 %}
-          {% assign count = count | plus: 1 %}
+        {% assign rel_same = false %}
+        {% for c in post.categories %}{% if page.categories contains c %}{% assign rel_same = true %}{% endif %}{% endfor %}
+        {% if rel_same and rel_count < 3 %}
+          {% assign rel_count = rel_count | plus: 1 %}
           {% include archive-single.html type="grid" %}
         {% endif %}
       {% endunless %}
     {% endfor %}
+{%- endcapture -%}
+{% if rel_count > 0 %}
+<div class="page__related">
+  <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
+  <div class="grid__wrapper">
+    {{ rel_cards }}
   </div>
 </div>
+{% endif %}
 {% endif %}
