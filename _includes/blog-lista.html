@@ -32,12 +32,13 @@
 .blog-item:hover .blog-go{transform:translateX(3px)}
 @media(max-width:640px){.blog-item{flex-direction:column;gap:0}.blog-img{flex:none;width:100%;min-height:0;aspect-ratio:16/9}.blog-body{padding:.8rem 1rem 1rem}.blog-go{display:none}.blog-excerpt{-webkit-line-clamp:2}}
 </style>
+{%- assign bl_cat_url = '/categoria/' -%}{%- if page.lang == 'en' -%}{%- assign bl_cat_url = '/en/category/' -%}{%- endif -%}
 {%- assign bl_seen = "|" -%}
 {%- for p in posts_l %}{% for c in p.categories %}{% assign bl_key = "|" | append: c | append: "|" %}{% unless bl_seen contains bl_key %}{% assign bl_seen = bl_seen | append: c | append: "|" %}{% endunless %}{% endfor %}{% endfor -%}
 {%- assign bl_cats = bl_seen | split: "|" | sort -%}
 <div class="blog-pills">
 <span class="blog-pill on">{% if page.lang == 'en' %}All{% else %}Tutti{% endif %}</span>
-{%- for c in bl_cats %}{% if c != "" %}<a class="blog-pill" href="{{ '/categoria/' | relative_url }}?cat={{ c | uri_escape }}">{{ c }}</a>{% endif %}{% endfor %}
+{%- for c in bl_cats %}{% if c != "" %}<a class="blog-pill" href="{{ bl_cat_url | relative_url }}?cat={{ c | uri_escape }}">{{ c }}</a>{% endif %}{% endfor %}
 </div>
 <ul class="blog-list" data-pg data-pg-item="li.blog-item" data-per="{{ site.per_page | default: 20 }}">
 {%- for post in posts_l %}
@@ -45,7 +46,7 @@
     <div class="blog-img">{% if post.header.teaser %}<img src="{{ post.header.teaser | relative_url }}" alt="" loading="lazy">{% endif %}</div>
     <div class="blog-body">
       {%- if post.categories.size > 0 %}
-      <div class="blog-cats">{% for cat in post.categories limit:2 %}<a href="{{ '/categoria/' | relative_url }}?cat={{ cat | uri_escape }}" class="blog-cat">{{ cat }}</a>{% endfor %}</div>
+      <div class="blog-cats">{% for cat in post.categories limit:2 %}<a href="{{ bl_cat_url | relative_url }}?cat={{ cat | uri_escape }}" class="blog-cat">{{ cat }}</a>{% endfor %}</div>
       {%- endif %}
       <a href="{{ post.url | relative_url }}" class="blog-title">{{ post.title }}</a>
       <div class="blog-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</div>
