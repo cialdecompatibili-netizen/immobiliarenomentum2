@@ -32,13 +32,13 @@
 .blog-item:hover .blog-go{transform:translateX(3px)}
 @media(max-width:640px){.blog-item{flex-direction:column;gap:0}.blog-img{flex:none;width:100%;min-height:0;aspect-ratio:16/9}.blog-body{padding:.8rem 1rem 1rem}.blog-go{display:none}.blog-excerpt{-webkit-line-clamp:2}}
 </style>
-{%- assign bl_cats = posts_l | map: "categories" | join: "|" | split: "|" | uniq | sort -%}
-{%- if bl_cats.size > 0 %}
+{%- assign bl_seen = "|" -%}
+{%- for p in posts_l %}{% for c in p.categories %}{% assign bl_key = "|" | append: c | append: "|" %}{% unless bl_seen contains bl_key %}{% assign bl_seen = bl_seen | append: c | append: "|" %}{% endunless %}{% endfor %}{% endfor -%}
+{%- assign bl_cats = bl_seen | split: "|" | sort -%}
 <div class="blog-pills">
 <span class="blog-pill on">{% if page.lang == 'en' %}All{% else %}Tutti{% endif %}</span>
 {%- for c in bl_cats %}{% if c != "" %}<a class="blog-pill" href="{{ '/categories/#' | prepend: site.baseurl }}{{ c | slugify }}">{{ c }}</a>{% endif %}{% endfor %}
 </div>
-{%- endif %}
 <ul class="blog-list" data-pg data-pg-item="li.blog-item" data-per="{{ site.per_page | default: 20 }}">
 {%- for post in posts_l %}
   <li class="blog-item">
