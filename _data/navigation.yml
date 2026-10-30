@@ -8,6 +8,8 @@
 # - Per lingua: _data/i18n/<lingua>/navigation.yml sostituisce questo file (creato dall'admin).
 # =====================================================================================
 main:
+  - title: "Home"
+    url: /
   - title: "Immobili"
     url: /#immobili
   - title: "Vendi"

@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /en/
   - title: "Properties"
     url: /en/#immobili
   - title: "Sell"
