@@ -42,8 +42,20 @@ ref: vendi
 </div>
 
 <section class="im-seo">
-<h2>Come vendere casa a Mentana, Monterotondo e Roma nord</h2>
-<p>Vendere casa bene significa partire da un prezzo giusto, preparare i documenti prima di mettere l'annuncio e filtrare le visite. Conosciamo i valori reali di Mentana, Monterotondo, Fonte Nuova e Roma nord: ti diciamo quanto puoi chiedere, in quanto tempo ragionevolmente vendi e cosa fare per non perdere acquirenti.</p>
+<h2>Come vendere casa</h2>
+<p>Vendere casa bene significa partire da un prezzo giusto, preparare i documenti prima di mettere l'annuncio e filtrare le visite. Ti diciamo quanto puoi chiedere, in quanto tempo ragionevolmente vendi e cosa fare per non perdere acquirenti.</p>
+
+<h2>Vendere casa a Mentana</h2>
+<p>Se vuoi vendere casa a Mentana, partiamo dai prezzi di compravendita effettivi del comune, non da quelli degli annunci. Facciamo il sopralluogo, controlliamo i documenti e ti proponiamo prezzo e piano di vendita per il tuo immobile.</p>
+
+<h2>Vendere casa a Monterotondo</h2>
+<p>Per vendere casa a Monterotondo confrontiamo immobili simili venduti di recente in zona, così il prezzo di partenza è credibile e attira acquirenti seri fin dalle prime visite.</p>
+
+<h2>Vendere casa a Fonte Nuova</h2>
+<p>Se devi vendere casa a Fonte Nuova, valutiamo l'immobile sulle vendite reali della zona e ti spieghiamo cosa conviene sistemare prima di pubblicare l'annuncio.</p>
+
+<h2>Vendere casa a Roma nord</h2>
+<p>Per vendere casa a Roma nord, il valore dipende molto dalla zona e dai collegamenti. Ti facciamo una stima ragionata e un piano di vendita con tempi e promozione chiari.</p>
 
 <h2>Come vendere un appartamento</h2>
 <p>Per vendere un appartamento contano piano, esposizione, stato dell'impianto e spese condominiali. Prima della vendita controlliamo planimetria catastale, conformità edilizia, APE e situazione del condominio, così in trattativa non emergono sorprese che fanno scendere il prezzo.</p>
