@@ -9,7 +9,7 @@ seo_description: "Free valuation of your home in Mentana, Monterotondo and north
 ref: vendi
 lang: en
 locale: en
-tr: tradotto
+tr: da_aggiornare
 tr_hash: ikn4ug
 ---
 
@@ -44,6 +44,44 @@ tr_hash: ikn4ug
 <div><b>Sales plan</b><span>Starting price, expected timing, professional photos, listings on the portals and viewings only with qualified buyers.</span></div>
 <div><b>Documents in order</b><span>Land registry searches, floor plans, energy certificate and compliance: we check them before they become a problem at the deed.</span></div>
 </div>
+
+<section class="im-seo">
+<h2>How to sell a home in Mentana, Monterotondo and north Rome</h2>
+<p>Selling well means starting from the right price, getting the documents ready before the listing goes live and screening viewings. We know the real values in Mentana, Monterotondo, Fonte Nuova and north Rome: we tell you what you can ask, how long a sale reasonably takes and what to do so you do not lose buyers.</p>
+
+<h2>How to sell an apartment</h2>
+<p>When selling an apartment, the floor, orientation, state of the systems and condominium costs all matter. Before the sale we check the cadastral floor plan, building compliance, energy certificate and the condominium situation, so no surprises come up during negotiation and push the price down.</p>
+
+<h2>How to sell a villa or small house</h2>
+<p>A small house sells differently from an apartment: garden, outbuildings, garage, any extensions and whether they are legally in order all carry weight. We visit the property, check that everything is registered and compliant, and write a listing that highlights the outdoor space, which is often why buyers choose it.</p>
+
+<h2>How to sell land</h2>
+<p>For land, the deciding factor is its zoning: building land, farmland or other uses change the value and the kind of buyer completely. You need a cadastral search, clear boundaries and the land-use certificate. We help you obtain them and estimate a price in line with what the land can really become.</p>
+
+<h2>How to sell a penthouse</h2>
+<p>A penthouse has a narrower market, but a more demanding one: terraces, views, light, outdoor areas and running costs. We present it with photos and a description that bring out exactly these points, and we offer it to buyers looking for that kind of property.</p>
+
+<h2>How to sell a commercial unit</h2>
+<p>A shop or office is valued on location, visibility, permitted use, cadastral category and any lease in place, which can be an advantage for an investor. We check these elements before setting the price.</p>
+
+<h2>How to sell a home with a mortgage still open</h2>
+<p>You can sell a property with a mortgage in progress: the remaining balance is paid off with the proceeds and the lien is cancelled at the deed. We ask the bank for the up-to-date balance and coordinate timing with the notary, so buyer and bank are aligned.</p>
+
+<h2>How to sell an inherited home</h2>
+<p>If the home comes from an inheritance, the succession declaration, acceptance of the inheritance and registrations must be settled before selling, and all heirs have to agree. We explain the steps and coordinate them with the notary, to reach the deed without blockages.</p>
+
+<h2>Which documents you need to sell a home</h2>
+<p>The basic documents are the title deed, cadastral search and floor plan, energy certificate, building and planning compliance and, in a condominium, the costs and resolutions. We check them at the start: it is the quickest way to avoid delays at the deed.</p>
+
+<h2>How long it takes to sell a home</h2>
+<p>Timing depends mostly on the starting price, the area and the condition of the property. A well-priced home with its documents ready sells faster. After the valuation we give you a time estimate for your case, without unrealistic promises.</p>
+
+<h2>How the sale price of a home is set</h2>
+<p>The price is based on actual sales in the area, not on listing prices. We compare similar properties sold recently and take into account condition, floor, orientation and features. A price too high lengthens the sale, one too low loses you value: the estimate is there to find the right point.</p>
+
+<h2>Taxes and costs of selling a home</h2>
+<p>Selling can involve taxes such as capital gains tax, which depends on how and when you bought or received the property, plus notary fees and commission. We point out the items to consider in your case; for tax details we recommend also consulting an accountant.</p>
+</section>
 
 <h2>Frequently asked questions</h2>
 <div class="im-faq">

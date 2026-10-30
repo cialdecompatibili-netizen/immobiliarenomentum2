@@ -41,6 +41,44 @@ ref: vendi
 <div><b>Documenti a posto</b><span>Visure, planimetrie, APE e conformità: controlliamo noi prima che diventino un problema al rogito.</span></div>
 </div>
 
+<section class="im-seo">
+<h2>Come vendere casa a Mentana, Monterotondo e Roma nord</h2>
+<p>Vendere casa bene significa partire da un prezzo giusto, preparare i documenti prima di mettere l'annuncio e filtrare le visite. Conosciamo i valori reali di Mentana, Monterotondo, Fonte Nuova e Roma nord: ti diciamo quanto puoi chiedere, in quanto tempo ragionevolmente vendi e cosa fare per non perdere acquirenti.</p>
+
+<h2>Come vendere un appartamento</h2>
+<p>Per vendere un appartamento contano piano, esposizione, stato dell'impianto e spese condominiali. Prima della vendita controlliamo planimetria catastale, conformità edilizia, APE e situazione del condominio, così in trattativa non emergono sorprese che fanno scendere il prezzo.</p>
+
+<h2>Come vendere un villino o una villa</h2>
+<p>Un villino si vende diversamente da un appartamento: pesano giardino, superfici accessorie, box, eventuali ampliamenti e la loro regolarità urbanistica. Facciamo un sopralluogo, verifichiamo che tutto sia accatastato e in regola e costruiamo un annuncio che valorizza gli spazi esterni, che sono spesso il motivo della scelta.</p>
+
+<h2>Come vendere un terreno</h2>
+<p>Per vendere un terreno la cosa decisiva è la destinazione urbanistica: edificabile, agricolo o altro cambia completamente il valore e il tipo di acquirente. Servono visura catastale, confini chiari e il certificato di destinazione urbanistica. Ti aiutiamo a recuperarli e a stimare un prezzo coerente con ciò che il terreno può davvero diventare.</p>
+
+<h2>Come vendere un attico</h2>
+<p>L'attico ha un mercato più ristretto ma più attento ai dettagli: terrazzi, vista, luce, superfici esterne e spese di gestione. Lo presentiamo con foto e descrizione che mettono in evidenza proprio questi punti e lo proponiamo ad acquirenti che cercano quel tipo di immobile.</p>
+
+<h2>Come vendere un locale commerciale</h2>
+<p>Un negozio o un ufficio si valuta su zona, visibilità, destinazione d'uso, categoria catastale e su un eventuale contratto di locazione in corso, che può essere un vantaggio per chi compra a reddito. Verifichiamo questi elementi prima di fissare il prezzo.</p>
+
+<h2>Come vendere casa con il mutuo ancora aperto</h2>
+<p>Si può vendere un immobile con il mutuo in corso: il residuo viene estinto con il ricavato e l'ipoteca si cancella al rogito. Chiediamo alla banca il saldo aggiornato e coordiniamo i tempi con il notaio, così acquirente e banca sono allineati.</p>
+
+<h2>Come vendere una casa ereditata</h2>
+<p>Se la casa viene da una successione, prima di vendere vanno sistemate dichiarazione di successione, accettazione dell'eredità e trascrizioni, e serve l'accordo di tutti gli eredi. Ti spieghiamo i passaggi e li coordiniamo con il notaio, per arrivare al rogito senza blocchi.</p>
+
+<h2>Quali documenti servono per vendere casa</h2>
+<p>I documenti base sono atto di provenienza, visura e planimetria catastale, APE, conformità edilizia e urbanistica e, in condominio, le spese e le delibere. Li controlliamo noi all'inizio: è il modo più rapido per evitare ritardi al rogito.</p>
+
+<h2>Quanto tempo ci vuole per vendere casa</h2>
+<p>I tempi dipendono soprattutto dal prezzo di partenza, dalla zona e dalle condizioni dell'immobile. Una casa ben prezzata e con i documenti pronti si vende più in fretta. Dopo la valutazione ti diamo una stima dei tempi per il tuo caso, senza promesse irreali.</p>
+
+<h2>Come si stabilisce il prezzo di vendita di una casa</h2>
+<p>Il prezzo si fonda sulle compravendite effettive della zona, non sui prezzi degli annunci. Confrontiamo immobili simili venduti di recente e consideriamo stato, piano, esposizione e dotazioni. Un prezzo troppo alto allunga i tempi, uno troppo basso ti fa perdere valore: la stima serve a trovare il punto giusto.</p>
+
+<h2>Tasse e costi di vendita di una casa</h2>
+<p>Alla vendita possono entrare in gioco imposte come la plusvalenza, che dipende da come e quando hai acquistato o ricevuto l'immobile, oltre a spese notarili e provvigione. Ti indichiamo le voci da considerare nel tuo caso; per gli aspetti fiscali di dettaglio ti consigliamo di sentire anche il commercialista.</p>
+</section>
+
 <h2>Domande frequenti</h2>
 <div class="im-faq">
 <details><summary>La valutazione è davvero gratuita?</summary><p>Sì. Non costa nulla e non ti impegna a darci un incarico di vendita.</p></details>
