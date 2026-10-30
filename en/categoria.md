@@ -6,7 +6,7 @@ classes: wide
 ref: categoria
 lang: en
 locale: en
-tr: tradotto
+tr: da_aggiornare
 tr_hash: 1bk11xf
 permalink: /en/category/
 ---
@@ -37,7 +37,7 @@ permalink: /en/category/
 }
 </style>
 
-<a class="cat-back" href="{{ '/categorie/' | relative_url }}">← All categories</a>
+<a class="cat-back" href="{{ '/en/blog/' | relative_url }}">← All articles</a>
 <div id="cat-container"><div class="cat-empty">Loading...</div></div>
 
 <script>

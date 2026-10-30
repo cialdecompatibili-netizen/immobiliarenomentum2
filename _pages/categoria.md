@@ -33,7 +33,7 @@ classes: wide
 }
 </style>
 
-<a class="cat-back" href="{{ '/categorie/' | relative_url }}">← Tutte le categorie</a>
+<a class="cat-back" href="{{ '/blog/' | relative_url }}">← Tutti gli articoli</a>
 <div id="cat-container"><div class="cat-empty">Caricamento...</div></div>
 
 <script>
