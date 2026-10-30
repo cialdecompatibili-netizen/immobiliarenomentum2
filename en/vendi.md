@@ -61,6 +61,9 @@ tr_hash: ikn4ug
 <h2>Selling a home in north Rome</h2>
 <p>To sell a home in north Rome, value depends a lot on the area and the transport links. We give you a reasoned estimate and a sales plan with clear timing and promotion.</p>
 
+<h2>Selling a home in east Rome</h2>
+<p>To sell a home in east Rome we value the property on the real sales in the area and propose a price, timing and promotion that fit your case.</p>
+
 <h2>How to sell an apartment</h2>
 <p>When selling an apartment, the floor, orientation, state of the systems and condominium costs all matter. Before the sale we check the cadastral floor plan, building compliance, energy certificate and the condominium situation, so no surprises come up during negotiation and push the price down.</p>
 

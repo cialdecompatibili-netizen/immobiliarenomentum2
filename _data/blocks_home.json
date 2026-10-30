@@ -39,7 +39,7 @@
     "id": "zone",
     "nome": "Zone",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"zone\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Zone</p><h2 class=\"gc-h2\">Dove operiamo</h2><div class=\"gc-badges im-zone\"><span class=\"gc-badge\">Mentana</span><span class=\"gc-badge\">Monterotondo</span><span class=\"gc-badge\">Fonte Nuova</span><span class=\"gc-badge\">Roma nord</span><span class=\"gc-badge\">Nomentano</span><span class=\"gc-badge\">Sabina</span></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"zone\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Zone</p><h2 class=\"gc-h2\">Dove operiamo</h2><div class=\"gc-badges im-zone\"><span class=\"gc-badge\">Mentana</span><span class=\"gc-badge\">Monterotondo</span><span class=\"gc-badge\">Fonte Nuova</span><span class=\"gc-badge\">Roma nord</span><span class=\"gc-badge\">Roma est</span><span class=\"gc-badge\">Nomentano</span><span class=\"gc-badge\">Sabina</span></div></div></section></div>"
   },
   {
     "id": "richiesta",

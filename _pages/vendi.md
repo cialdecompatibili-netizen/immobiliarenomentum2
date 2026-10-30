@@ -57,6 +57,9 @@ ref: vendi
 <h2>Vendere casa a Roma nord</h2>
 <p>Per vendere casa a Roma nord, il valore dipende molto dalla zona e dai collegamenti. Ti facciamo una stima ragionata e un piano di vendita con tempi e promozione chiari.</p>
 
+<h2>Vendere casa a Roma est</h2>
+<p>Per vendere casa a Roma est valutiamo l'immobile sulle vendite reali della zona e ti proponiamo prezzo, tempi e promozione adatti al tuo caso.</p>
+
 <h2>Come vendere un appartamento</h2>
 <p>Per vendere un appartamento contano piano, esposizione, stato dell'impianto e spese condominiali. Prima della vendita controlliamo planimetria catastale, conformità edilizia, APE e situazione del condominio, così in trattativa non emergono sorprese che fanno scendere il prezzo.</p>
 
