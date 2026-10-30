@@ -4,7 +4,7 @@
   Come funziona il click: il link del titolo ha un ::after che copre l'intera card (stretched link). Categoria e tag hanno z-index piu' alto,
   quindi restano cliccabili da soli. NON annidare altri <a> dentro un <a>. Nessun testo fisso: niente da tradurre qui (data e tag arrivano dai post).
   Impaginazione: data-pg / data-pg-item sono letti da assets/js/paginazione.js (per_page da _config.yml): non rinominare.
-  PILLOLE CATEGORIE (.blog-pills): stesso aspetto delle pillole del negozio. "Tutti" = pagina corrente, le altre sono link alla pagina categorie (stesso link di .blog-cat). Solo l'etichetta "Tutti/All" e' tradotta con page.lang.
+  PILLOLE CATEGORIE (.blog-pills): stesso aspetto delle pillole del negozio. "Tutti" = pagina corrente, le altre aprono la pagina dinamica /categoria/?cat=NOME (stesso link dei badge .blog-cat). Solo l'etichetta "Tutti/All" e' tradotta con page.lang.
 {%- endcomment -%}
 <style>
 .blog-pills{display:flex;flex-wrap:wrap;gap:.5rem;margin:1.2rem 0 0}
@@ -37,7 +37,7 @@
 {%- assign bl_cats = bl_seen | split: "|" | sort -%}
 <div class="blog-pills">
 <span class="blog-pill on">{% if page.lang == 'en' %}All{% else %}Tutti{% endif %}</span>
-{%- for c in bl_cats %}{% if c != "" %}<a class="blog-pill" href="{{ '/categories/#' | prepend: site.baseurl }}{{ c | slugify }}">{{ c }}</a>{% endif %}{% endfor %}
+{%- for c in bl_cats %}{% if c != "" %}<a class="blog-pill" href="{{ '/categoria/' | relative_url }}?cat={{ c | uri_escape }}">{{ c }}</a>{% endif %}{% endfor %}
 </div>
 <ul class="blog-list" data-pg data-pg-item="li.blog-item" data-per="{{ site.per_page | default: 20 }}">
 {%- for post in posts_l %}
@@ -45,7 +45,7 @@
     <div class="blog-img">{% if post.header.teaser %}<img src="{{ post.header.teaser | relative_url }}" alt="" loading="lazy">{% endif %}</div>
     <div class="blog-body">
       {%- if post.categories.size > 0 %}
-      <div class="blog-cats">{% for cat in post.categories limit:2 %}<a href="{{ '/categories/#' | prepend: site.baseurl }}{{ cat | slugify }}" class="blog-cat">{{ cat }}</a>{% endfor %}</div>
+      <div class="blog-cats">{% for cat in post.categories limit:2 %}<a href="{{ '/categoria/' | relative_url }}?cat={{ cat | uri_escape }}" class="blog-cat">{{ cat }}</a>{% endfor %}</div>
       {%- endif %}
       <a href="{{ post.url | relative_url }}" class="blog-title">{{ post.title }}</a>
       <div class="blog-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</div>
