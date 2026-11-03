@@ -10,5 +10,9 @@
   {
     "nome": "mutui",
     "descrizione": "Mutui e finanziamenti per comprare casa, spiegati semplici."
+  },
+  {
+    "nome": "comprare",
+    "descrizione": "Guida all'acquisto della casa: cosa controllare, come scegliere e quali passi seguire."
   }
 ]

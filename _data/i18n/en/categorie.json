@@ -10,5 +10,9 @@
   {
     "nome": "mortgages",
     "descrizione": "Mortgages and financing to buy a home, explained simply."
+  },
+  {
+    "nome": "buying",
+    "descrizione": "Guide to buying a home: what to check, how to choose and which steps to follow."
   }
 ]
