@@ -13,8 +13,8 @@ categories:
   - selling
 lang: en
 locale: en
-tr: da_aggiornare
-tr_hash: 1oc9r1o
+tr: tradotto
+tr_hash: 1vfz5b5
 ---
 
 > **In short:** To sell land in Monterotondo you first need to work out whether it is agricultural or buildable, because price, taxes and buyers all depend on it. Then you need the urban planning certificate (CDU), requested from the municipality, and your land registry records in order. If the land is agricultural, agricultural pre-emption rights may also apply.

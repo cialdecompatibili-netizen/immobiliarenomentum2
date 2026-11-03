@@ -13,8 +13,8 @@ categories:
   - selling
 lang: en
 locale: en
-tr: da_aggiornare
-tr_hash: pwomkn
+tr: tradotto
+tr_hash: 1yt9ed8
 ---
 
 > **In short:** To sell land in Fonte Nuova you first need to work out whether it is agricultural or buildable, because price, taxes and buyers all depend on it. Then you need the urban planning certificate (CDU), requested from the municipality, and your land registry records in order. If the land is agricultural, agricultural pre-emption rights may also apply.
