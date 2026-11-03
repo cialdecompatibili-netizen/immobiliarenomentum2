@@ -1,11 +1,11 @@
 ---
 layout: single
 ref: vendere-casa-mentana
-title: "Vendere casa a Mentana"
+title: "Come vendere casa a Mentana?"
 date: 2026-11-03
 permalink: /blog/vendere/vendere-casa-mentana/
 excerpt: "Vuoi vendere casa a Mentana? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
-seo_title: "Vendere casa a Mentana"
+seo_title: "Come vendere casa a Mentana?"
 seo_description: "Vuoi vendere casa a Mentana? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/vendere-casa-mentana.jpg

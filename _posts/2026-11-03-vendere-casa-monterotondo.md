@@ -1,11 +1,11 @@
 ---
 layout: single
 ref: vendere-casa-monterotondo
-title: "Vendere casa a Monterotondo"
+title: "Come vendere casa a Monterotondo?"
 date: 2026-11-03
 permalink: /blog/vendere/vendere-casa-monterotondo/
 excerpt: "Vuoi vendere casa a Monterotondo? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
-seo_title: "Vendere casa a Monterotondo"
+seo_title: "Come vendere casa a Monterotondo?"
 seo_description: "Vuoi vendere casa a Monterotondo? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/vendere-casa-monterotondo.jpg

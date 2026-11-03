@@ -1,11 +1,11 @@
 ---
 layout: single
 ref: comprare-casa-roma-nord
-title: "Comprare casa a Roma nord"
+title: "Come comprare casa a Roma nord?"
 date: 2026-11-03
 permalink: /blog/comprare/comprare-casa-roma-nord/
 excerpt: "Vuoi comprare casa a Roma nord, tra Cassia, Flaminia, Prima Porta e Labaro? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
-seo_title: "Comprare casa a Roma nord"
+seo_title: "Come comprare casa a Roma nord?"
 seo_description: "Vuoi comprare casa a Roma nord, tra Cassia, Flaminia, Prima Porta e Labaro? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/comprare-casa-roma-nord.jpg

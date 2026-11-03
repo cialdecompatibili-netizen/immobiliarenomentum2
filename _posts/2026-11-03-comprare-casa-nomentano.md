@@ -1,11 +1,11 @@
 ---
 layout: single
 ref: comprare-casa-nomentano
-title: "Comprare casa al Nomentano"
+title: "Come comprare casa al Nomentano?"
 date: 2026-11-03
 permalink: /blog/comprare/comprare-casa-nomentano/
 excerpt: "Vuoi comprare casa al Nomentano, a Roma? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
-seo_title: "Comprare casa al Nomentano"
+seo_title: "Come comprare casa al Nomentano?"
 seo_description: "Vuoi comprare casa al Nomentano, a Roma? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/comprare-casa-nomentano.jpg

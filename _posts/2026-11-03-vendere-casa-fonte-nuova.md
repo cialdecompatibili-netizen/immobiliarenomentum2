@@ -1,11 +1,11 @@
 ---
 layout: single
 ref: vendere-casa-fonte-nuova
-title: "Vendere casa a Fonte Nuova"
+title: "Come vendere casa a Fonte Nuova?"
 date: 2026-11-03
 permalink: /blog/vendere/vendere-casa-fonte-nuova/
 excerpt: "Vuoi vendere casa a Fonte Nuova, Tor Lupara o Santa Lucia? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
-seo_title: "Vendere casa a Fonte Nuova"
+seo_title: "Come vendere casa a Fonte Nuova?"
 seo_description: "Vuoi vendere casa a Fonte Nuova, Tor Lupara o Santa Lucia? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/vendere-casa-fonte-nuova.jpg

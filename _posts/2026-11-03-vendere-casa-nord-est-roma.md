@@ -1,11 +1,11 @@
 ---
 layout: single
 ref: vendere-casa-nord-est-roma
-title: "Vendere casa a nord-est di Roma"
+title: "Come vendere casa a nord-est di Roma?"
 date: 2026-11-03
 permalink: /blog/vendere/vendere-casa-nord-est-roma/
 excerpt: "Vuoi vendere casa a nord-est di Roma: Mentana, Monterotondo, Fonte Nuova o Sabina? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
-seo_title: "Vendere casa a nord-est di Roma"
+seo_title: "Come vendere casa a nord-est di Roma?"
 seo_description: "Vuoi vendere casa a nord-est di Roma: Mentana, Monterotondo, Fonte Nuova o Sabina? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/vendere-casa-nord-est-roma.jpg

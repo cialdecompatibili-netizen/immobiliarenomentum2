@@ -1,11 +1,11 @@
 ---
 layout: single
 ref: vendere-casa-sabina
-title: "Vendere casa in Sabina"
+title: "Come vendere casa in Sabina?"
 date: 2026-11-03
 permalink: /blog/vendere/vendere-casa-sabina/
 excerpt: "Vuoi vendere un casale, un rustico o una villa in Sabina? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
-seo_title: "Vendere casa in Sabina"
+seo_title: "Come vendere casa in Sabina?"
 seo_description: "Vuoi vendere un casale, un rustico o una villa in Sabina? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/vendere-casa-sabina.jpg

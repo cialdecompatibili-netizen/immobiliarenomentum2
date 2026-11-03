@@ -1,11 +1,11 @@
 ---
 layout: single
 ref: comprare-casa-sabina
-title: "Comprare casa in Sabina"
+title: "Come comprare casa in Sabina?"
 date: 2026-11-03
 permalink: /blog/comprare/comprare-casa-sabina/
 excerpt: "Vuoi comprare un casale, un rustico o una villa in Sabina? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
-seo_title: "Comprare casa in Sabina"
+seo_title: "Come comprare casa in Sabina?"
 seo_description: "Vuoi comprare un casale, un rustico o una villa in Sabina? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/comprare-casa-sabina.jpg

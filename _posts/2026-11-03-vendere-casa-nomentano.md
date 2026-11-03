@@ -1,11 +1,11 @@
 ---
 layout: single
 ref: vendere-casa-nomentano
-title: "Vendere casa al Nomentano"
+title: "Come vendere casa al Nomentano?"
 date: 2026-11-03
 permalink: /blog/vendere/vendere-casa-nomentano/
 excerpt: "Vuoi vendere casa al Nomentano, a Roma? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
-seo_title: "Vendere casa al Nomentano"
+seo_title: "Come vendere casa al Nomentano?"
 seo_description: "Vuoi vendere casa al Nomentano, a Roma? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/vendere-casa-nomentano.jpg

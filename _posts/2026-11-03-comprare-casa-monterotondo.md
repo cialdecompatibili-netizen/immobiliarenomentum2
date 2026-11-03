@@ -1,11 +1,11 @@
 ---
 layout: single
 ref: comprare-casa-monterotondo
-title: "Comprare casa a Monterotondo"
+title: "Come comprare casa a Monterotondo?"
 date: 2026-11-03
 permalink: /blog/comprare/comprare-casa-monterotondo/
 excerpt: "Vuoi comprare casa a Monterotondo? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
-seo_title: "Comprare casa a Monterotondo"
+seo_title: "Come comprare casa a Monterotondo?"
 seo_description: "Vuoi comprare casa a Monterotondo? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/comprare-casa-monterotondo.jpg

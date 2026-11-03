@@ -1,11 +1,11 @@
 ---
 layout: single
 ref: comprare-casa-fonte-nuova
-title: "Comprare casa a Fonte Nuova"
+title: "Come comprare casa a Fonte Nuova?"
 date: 2026-11-03
 permalink: /blog/comprare/comprare-casa-fonte-nuova/
 excerpt: "Vuoi comprare casa a Fonte Nuova, Tor Lupara o Santa Lucia? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
-seo_title: "Comprare casa a Fonte Nuova"
+seo_title: "Come comprare casa a Fonte Nuova?"
 seo_description: "Vuoi comprare casa a Fonte Nuova, Tor Lupara o Santa Lucia? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/comprare-casa-fonte-nuova.jpg
