@@ -1,12 +1,12 @@
 ---
 layout: single
 ref: vendere-casa-nomentano
-title: "Vendere casa al Nomentano: valore, documenti e tempi"
+title: "Vendere casa al Nomentano"
 date: 2026-11-03
 permalink: /blog/vendere/vendere-casa-nomentano/
-excerpt: "Hai casa al Nomentano? Un quartiere ricercato di Roma con valori alti: come venderla bene, cosa preparare e come stimare il prezzo. Sopralluogo senza impegno o online."
-seo_title: "Vendere casa al Nomentano (Roma): prezzo, documenti e consigli"
-seo_description: "Come vendere casa nel quartiere Nomentano di Roma: valutazione, documenti da preparare e tempi di vendita."
+excerpt: "Vuoi vendere casa al Nomentano, a Roma? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
+seo_title: "Vendere casa al Nomentano"
+seo_description: "Vuoi vendere casa al Nomentano, a Roma? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/vendere-casa-nomentano.jpg
 categories:

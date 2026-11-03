@@ -1,12 +1,12 @@
 ---
 layout: single
 ref: vendere-casa-roma-nord
-title: "Vendere casa a Roma nord: Cassia, Flaminia, Prima Porta e Labaro"
+title: "Vendere casa a Roma nord"
 date: 2026-11-03
 permalink: /blog/vendere/vendere-casa-roma-nord/
-excerpt: "Vendere casa a Roma nord: come cambia il prezzo tra Cassia, Flaminia, Prima Porta e Labaro. Documenti, tempi e consigli. Sopralluogo senza impegno o valutazione online."
-seo_title: "Vendere casa a Roma nord: prezzi, documenti e tempi per Cassia, Flaminia e Labaro"
-seo_description: "Come vendere casa a Roma nord (Cassia, Flaminia, Prima Porta, Labaro): valutazione, documenti e tempi."
+excerpt: "Vuoi vendere casa a Roma nord, tra Cassia, Flaminia, Prima Porta e Labaro? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
+seo_title: "Vendere casa a Roma nord"
+seo_description: "Vuoi vendere casa a Roma nord, tra Cassia, Flaminia, Prima Porta e Labaro? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/vendere-casa-roma-nord.jpg
 categories:

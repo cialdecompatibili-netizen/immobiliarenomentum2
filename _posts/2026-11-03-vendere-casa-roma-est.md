@@ -1,12 +1,12 @@
 ---
 layout: single
 ref: vendere-casa-roma-est
-title: "Vendere casa a Roma est: Prenestino, Casilino, Tiburtino"
+title: "Vendere casa a Roma est"
 date: 2026-11-03
 permalink: /blog/vendere/vendere-casa-roma-est/
-excerpt: "Vendere casa a Roma est tra Prenestino, Casilino e Tiburtino: come stimare il prezzo, quali documenti servono e quanto tempo ci vuole. Sopralluogo senza impegno o online."
-seo_title: "Vendere casa a Roma est: prezzo, documenti e tempi (Prenestino, Casilino, Tiburtino)"
-seo_description: "Guida per vendere casa a Roma est: Prenestino, Casilino, Tiburtino. Valutazione, documenti, tempi e consigli."
+excerpt: "Vuoi vendere casa a Roma est, tra Prenestino, Casilino e Tiburtino? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
+seo_title: "Vendere casa a Roma est"
+seo_description: "Vuoi vendere casa a Roma est, tra Prenestino, Casilino e Tiburtino? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/vendere-casa-roma-est.jpg
 categories:

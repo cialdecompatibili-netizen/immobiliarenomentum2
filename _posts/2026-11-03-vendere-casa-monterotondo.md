@@ -1,12 +1,12 @@
 ---
 layout: single
 ref: vendere-casa-monterotondo
-title: "Vendere casa a Monterotondo: guida pratica per proprietari"
+title: "Vendere casa a Monterotondo"
 date: 2026-11-03
 permalink: /blog/vendere/vendere-casa-monterotondo/
-excerpt: "Vendere casa a Monterotondo: centro storico, Monterotondo Scalo e zone residenziali. Prezzo, documenti e tempi. Sopralluogo senza impegno o valutazione online."
-seo_title: "Vendere casa a Monterotondo: prezzo, documenti e tempi"
-seo_description: "Guida per vendere casa a Monterotondo: centro, Scalo e quartieri residenziali. Come stimare il prezzo e quali documenti servono."
+excerpt: "Vuoi vendere casa a Monterotondo? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
+seo_title: "Vendere casa a Monterotondo"
+seo_description: "Vuoi vendere casa a Monterotondo? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/vendere-casa-monterotondo.jpg
 categories:

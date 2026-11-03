@@ -1,12 +1,12 @@
 ---
 layout: single
 ref: vendere-casa-mentana
-title: "Vendere casa a Mentana: come fare e dove conviene"
+title: "Vendere casa a Mentana"
 date: 2026-11-03
 permalink: /blog/vendere/vendere-casa-mentana/
-excerpt: "Vorresti vendere casa nel comune di Mentana? Prezzo, documenti, tempi e cosa cercano oggi gli acquirenti. Contattaci per un sopralluogo senza impegno o online."
-seo_title: "Vendere casa a Mentana: guida, prezzo, documenti e tempi"
-seo_description: "Come vendere casa a Mentana: valutazione, documenti, tempi e consigli locali. Sopralluogo senza impegno o valutazione online."
+excerpt: "Vuoi vendere casa a Mentana? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
+seo_title: "Vendere casa a Mentana"
+seo_description: "Vuoi vendere casa a Mentana? Valutazione gratuita, prezzo di mercato, documenti e tempi di vendita. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/vendere-casa-mentana.jpg
 categories:
