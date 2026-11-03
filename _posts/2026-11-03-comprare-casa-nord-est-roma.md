@@ -1,12 +1,12 @@
 ---
 layout: single
 ref: comprare-casa-nord-est-roma
-title: "Comprare casa a nord-est di Roma: Mentana, Monterotondo, Fonte Nuova e Sabina"
+title: "Comprare casa a nord-est di Roma"
 date: 2026-11-03
 permalink: /blog/comprare/comprare-casa-nord-est-roma/
-excerpt: "Guida per chi vuole acquistare casa a nord-est di Roma: confronto tra Mentana, Monterotondo, Fonte Nuova, Nomentano, Roma nord e est e Sabina. Appuntamento senza impegno o online."
-seo_title: "Comprare casa a nord-est di Roma: Mentana, Monterotondo, Fonte Nuova e Sabina"
-seo_description: "Guida per chi vuole acquistare casa a nord-est di Roma: confronto tra Mentana, Monterotondo, Fonte Nuova, Nomentano, Roma nord e est e Sabina. Appuntamento senza impegno o online."
+excerpt: "Vuoi comprare casa a nord-est di Roma: Mentana, Monterotondo, Fonte Nuova o Sabina? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
+seo_title: "Comprare casa a nord-est di Roma"
+seo_description: "Vuoi comprare casa a nord-est di Roma: Mentana, Monterotondo, Fonte Nuova o Sabina? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/comprare-casa-nord-est-roma.jpg
 categories:

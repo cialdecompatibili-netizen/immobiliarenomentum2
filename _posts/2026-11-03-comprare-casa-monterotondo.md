@@ -1,12 +1,12 @@
 ---
 layout: single
 ref: comprare-casa-monterotondo
-title: "Comprare casa a Monterotondo: guida pratica all'acquisto"
+title: "Comprare casa a Monterotondo"
 date: 2026-11-03
 permalink: /blog/comprare/comprare-casa-monterotondo/
-excerpt: "Vuoi acquistare casa a Monterotondo? Centro storico, Monterotondo Scalo e quartieri residenziali: cosa guardare prima di comprare. Appuntamento senza impegno o online."
-seo_title: "Comprare casa a Monterotondo: guida pratica all'acquisto"
-seo_description: "Vuoi acquistare casa a Monterotondo? Centro storico, Monterotondo Scalo e quartieri residenziali: cosa guardare prima di comprare. Appuntamento senza impegno o online."
+excerpt: "Vuoi comprare casa a Monterotondo? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
+seo_title: "Comprare casa a Monterotondo"
+seo_description: "Vuoi comprare casa a Monterotondo? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/comprare-casa-monterotondo.jpg
 categories:

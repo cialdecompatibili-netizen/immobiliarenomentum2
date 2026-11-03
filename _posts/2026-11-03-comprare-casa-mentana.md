@@ -1,12 +1,12 @@
 ---
 layout: single
 ref: comprare-casa-mentana
-title: "Comprare casa a Mentana: guida per chi vuole acquistare"
+title: "Comprare casa a Mentana"
 date: 2026-11-03
 permalink: /blog/comprare/comprare-casa-mentana/
-excerpt: "Vorresti acquistare una casa a Mentana? Sei nel posto giusto: cosa controllare, quanto costa davvero e come muoverti. Contattaci per un appuntamento senza impegno o online."
-seo_title: "Comprare casa a Mentana: guida per chi vuole acquistare"
-seo_description: "Vorresti acquistare una casa a Mentana? Sei nel posto giusto: cosa controllare, quanto costa davvero e come muoverti. Contattaci per un appuntamento senza impegno o online."
+excerpt: "Vorresti acquistare una casa a Mentana? Sei nel posto giusto. Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
+seo_title: "Comprare casa a Mentana"
+seo_description: "Vorresti acquistare una casa a Mentana? Sei nel posto giusto. Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/comprare-casa-mentana.jpg
 categories:

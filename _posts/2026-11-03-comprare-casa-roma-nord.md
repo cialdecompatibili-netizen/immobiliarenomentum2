@@ -1,12 +1,12 @@
 ---
 layout: single
 ref: comprare-casa-roma-nord
-title: "Comprare casa a Roma nord: Cassia, Flaminia, Prima Porta e Labaro"
+title: "Comprare casa a Roma nord"
 date: 2026-11-03
 permalink: /blog/comprare/comprare-casa-roma-nord/
-excerpt: "Vuoi acquistare casa a Roma nord? Differenze tra Cassia, Flaminia, Prima Porta e Labaro, prezzi e controlli da fare. Appuntamento senza impegno o online."
-seo_title: "Comprare casa a Roma nord: Cassia, Flaminia, Prima Porta e Labaro"
-seo_description: "Vuoi acquistare casa a Roma nord? Differenze tra Cassia, Flaminia, Prima Porta e Labaro, prezzi e controlli da fare. Appuntamento senza impegno o online."
+excerpt: "Vuoi comprare casa a Roma nord, tra Cassia, Flaminia, Prima Porta e Labaro? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
+seo_title: "Comprare casa a Roma nord"
+seo_description: "Vuoi comprare casa a Roma nord, tra Cassia, Flaminia, Prima Porta e Labaro? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/comprare-casa-roma-nord.jpg
 categories:

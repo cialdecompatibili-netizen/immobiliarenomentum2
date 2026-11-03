@@ -1,12 +1,12 @@
 ---
 layout: single
 ref: comprare-casa-fonte-nuova
-title: "Comprare casa a Fonte Nuova: Tor Lupara, Santa Lucia e dintorni"
+title: "Comprare casa a Fonte Nuova"
 date: 2026-11-03
 permalink: /blog/comprare/comprare-casa-fonte-nuova/
-excerpt: "Cerchi casa a Fonte Nuova, Tor Lupara o Santa Lucia? Cosa controllare prima di acquistare e come evitare problemi di conformità. Appuntamento senza impegno o online."
-seo_title: "Comprare casa a Fonte Nuova: Tor Lupara, Santa Lucia e dintorni"
-seo_description: "Cerchi casa a Fonte Nuova, Tor Lupara o Santa Lucia? Cosa controllare prima di acquistare e come evitare problemi di conformità. Appuntamento senza impegno o online."
+excerpt: "Vuoi comprare casa a Fonte Nuova, Tor Lupara o Santa Lucia? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
+seo_title: "Comprare casa a Fonte Nuova"
+seo_description: "Vuoi comprare casa a Fonte Nuova, Tor Lupara o Santa Lucia? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/comprare-casa-fonte-nuova.jpg
 categories:

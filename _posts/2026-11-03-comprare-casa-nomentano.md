@@ -1,12 +1,12 @@
 ---
 layout: single
 ref: comprare-casa-nomentano
-title: "Comprare casa al Nomentano: valore, controlli e consigli"
+title: "Comprare casa al Nomentano"
 date: 2026-11-03
 permalink: /blog/comprare/comprare-casa-nomentano/
-excerpt: "Vuoi acquistare casa al Nomentano? Un quartiere storico e richiesto di Roma: come valutare il prezzo e cosa controllare nello stabile. Appuntamento senza impegno o online."
-seo_title: "Comprare casa al Nomentano: valore, controlli e consigli"
-seo_description: "Vuoi acquistare casa al Nomentano? Un quartiere storico e richiesto di Roma: come valutare il prezzo e cosa controllare nello stabile. Appuntamento senza impegno o online."
+excerpt: "Vuoi comprare casa al Nomentano, a Roma? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
+seo_title: "Comprare casa al Nomentano"
+seo_description: "Vuoi comprare casa al Nomentano, a Roma? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/comprare-casa-nomentano.jpg
 categories:

@@ -1,12 +1,12 @@
 ---
 layout: single
 ref: comprare-casa-roma-est
-title: "Comprare casa a Roma est: Prenestino, Casilino, Tiburtino"
+title: "Comprare casa a Roma est"
 date: 2026-11-03
 permalink: /blog/comprare/comprare-casa-roma-est/
-excerpt: "Vuoi acquistare casa a Roma est? Prenestino, Casilino e Tiburtino: collegamenti, prezzi e cosa verificare prima di comprare. Appuntamento senza impegno o online."
-seo_title: "Comprare casa a Roma est: Prenestino, Casilino, Tiburtino"
-seo_description: "Vuoi acquistare casa a Roma est? Prenestino, Casilino e Tiburtino: collegamenti, prezzi e cosa verificare prima di comprare. Appuntamento senza impegno o online."
+excerpt: "Vuoi comprare casa a Roma est, tra Prenestino, Casilino e Tiburtino? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
+seo_title: "Comprare casa a Roma est"
+seo_description: "Vuoi comprare casa a Roma est, tra Prenestino, Casilino e Tiburtino? Valutazione gratuita, prezzo di mercato, documenti e tempi dell'acquisto. Contattaci per un appuntamento senza impegno o online."
 header:
   teaser: /assets/foto/blog/comprare-casa-roma-est.jpg
 categories:
