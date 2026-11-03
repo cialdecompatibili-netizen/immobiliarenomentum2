@@ -42,7 +42,15 @@ search: true
 
 # SEO globale
 author:
-  name: ""
+  name: "Immobiliare Nomentum"
+  avatar: "/assets/foto/blog/vendere-casa-mentana.jpg"
+  bio: "Ti aiutiamo a comprare, vendere e finanziare casa tra Mentana, Monterotondo, Fonte Nuova e Roma nord-est. Scrivici per un appuntamento senza impegno o un colloquio online."
+  bio_en: "We help you buy, sell and finance a home around Mentana, Monterotondo, Fonte Nuova and north-east Rome. Write to us for a no-obligation appointment or an online meeting."
+  links:
+    - label: "Contattaci"
+      label_en: "Contact us"
+      url: "/contatti/"
+      url_en: "/en/contatti/"
 
 social:
   links: []

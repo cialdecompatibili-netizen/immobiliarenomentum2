@@ -28,6 +28,14 @@ Gli stili stanno qui dentro in <style> con !important perche' devono vincere sul
 .ps-about-body p{margin:0 0 .8rem;font-size:.92rem;line-height:1.65;color:#5b5650}
 .ps-link{font-size:.82rem;font-weight:600;color:#0f2a43;text-decoration:none;border-bottom:1px solid #939faa;padding-bottom:2px}
 .ps-link:hover{color:#141414;border-color:#141414}
+.ps-author{text-align:center}
+.ps-author .ps-avatar{display:block;width:96px;height:96px;margin:0 auto .8rem;border-radius:50%;object-fit:cover}
+.ps-author h2{margin:0 0 .5rem}
+.ps-author p{margin:0 0 .9rem;font-size:.92rem;line-height:1.65;color:#5b5650}
+.ps-author .ps-follow{margin:0 0 .5rem;font-size:.72rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:#9a948a}
+.ps-author ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:.35rem}
+.ps-author li{margin:0;padding:0}
+.ps-author a{font-size:.9rem;color:#0f2a43;text-decoration:none;border-bottom:1px solid #939faa}
 .ps-search{width:100%;display:flex;align-items:center;justify-content:space-between;gap:.6rem;padding:.8rem 1.1rem;border:1px solid #e9e3d9;border-radius:999px;background:#fff;color:#7a746b;font:inherit;font-size:.92rem;cursor:pointer;transition:border-color .2s}
 .ps-search:hover{border-color:#939faa}
 .ps-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:.85rem}
@@ -63,6 +71,24 @@ Gli stili stanno qui dentro in <style> con !important perche' devono vincere sul
   </section>
   {%- endif %}
 
+  {%- assign au = site.author -%}
+  {%- if sb.foto == blank and au.name != blank %}
+  <section class="ps-card ps-author">
+    {%- if au.avatar != blank %}<img class="ps-avatar" src="{{ au.avatar | relative_url }}" alt="{{ au.name | escape }}" loading="lazy">{% endif %}
+    <h2>{{ au.name }}</h2>
+    {%- if page.lang == "en" and au.bio_en != blank %}<p>{{ au.bio_en }}</p>{% elsif au.bio != blank %}<p>{{ au.bio }}</p>{% endif %}
+    {%- if au.links.size > 0 %}
+    <p class="ps-follow">{% if page.lang == "en" %}Follow{% else %}Segui{% endif %}</p>
+    <ul>
+      {%- for l in au.links %}
+      {%- assign lu = l.url -%}{%- if page.lang == "en" and l.url_en != blank %}{% assign lu = l.url_en %}{% endif -%}
+      {%- assign lb = l.label -%}{%- if page.lang == "en" and l.label_en != blank %}{% assign lb = l.label_en %}{% endif -%}
+      <li><a href="{% if lu contains "://" or lu == "#" %}{{ lu }}{% else %}{{ lu | relative_url }}{% endif %}">{{ lb }}</a></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+  </section>
+  {%- endif %}
   <button type="button" class="ps-search" onclick="var t=document.querySelector('.search__toggle');if(t){t.click();}">Cerca nel Blog <span aria-hidden="true">&#128269;</span></button>
 
   <section class="ps-card">
