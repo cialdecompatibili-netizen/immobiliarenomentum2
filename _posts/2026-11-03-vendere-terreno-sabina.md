@@ -7,6 +7,8 @@ permalink: /blog/vendere/vendere-terreno-sabina/
 excerpt: "Vuoi vendere un terreno in Sabina? Agricolo o edificabile, certificato di destinazione urbanistica, tasse e documenti: cosa serve e come stabilire il prezzo."
 seo_title: "Come vendere un terreno in Sabina?"
 seo_description: "Vuoi vendere un terreno in Sabina? Agricolo o edificabile, certificato di destinazione urbanistica, tasse e documenti: cosa serve e come stabilire il prezzo."
+header:
+  teaser: /assets/foto/blog/vendere-terreno-sabina.jpg
 categories:
   - vendere
 ---

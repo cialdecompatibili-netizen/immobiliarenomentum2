@@ -7,6 +7,8 @@ permalink: /en/blog/selling/sell-land-sabina/
 excerpt: "Want to sell land in the Sabina area? Agricultural or buildable, urban planning certificate, taxes and documents: what you need and how the price is set."
 seo_title: "How to sell land in the Sabina area?"
 seo_description: "Want to sell land in the Sabina area? Agricultural or buildable, urban planning certificate, taxes and documents: what you need and how the price is set."
+header:
+  teaser: /assets/foto/blog/vendere-terreno-sabina.jpg
 categories:
   - selling
 lang: en
