@@ -3,6 +3,7 @@ layout: single
 ref: preparare-casa
 title: "Come preparare casa per le visite: 7 mosse che fanno vendere prima"
 date: 2026-10-22
+permalink: /blog/vendere/preparare-casa-per-le-visite/
 excerpt: "Ordine, luce, piccole riparazioni, foto curate: come presentare un immobile per farlo sembrare la scelta giusta già dal primo sguardo."
 seo_title: "Preparare casa per la vendita: consigli di home staging"
 seo_description: "Come preparare un immobile per le visite e per le foto dell'annuncio: ordine, luce, piccole riparazioni, home staging e cura di giardino e terrazzo."

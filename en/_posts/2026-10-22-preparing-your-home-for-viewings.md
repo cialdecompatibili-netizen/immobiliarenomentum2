@@ -3,6 +3,7 @@ layout: single
 ref: preparare-casa
 title: "How to prepare your home for viewings: 7 moves that sell it sooner"
 date: 2026-10-22
+permalink: /en/blog/selling/preparing-your-home-for-viewings/
 excerpt: "Tidiness, light, small repairs, careful photos: how to present a property so that it looks like the right choice from the first glance."
 seo_title: "Preparing your home for sale: home staging tips"
 seo_description: "How to prepare a property for viewings and for the listing photos: tidiness, light, small repairs, home staging and care of the garden and terrace."

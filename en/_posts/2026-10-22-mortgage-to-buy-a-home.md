@@ -3,6 +3,7 @@ layout: single
 ref: mutuo-comprare
 title: "Mortgage to buy a home: how to work out how much you can borrow"
 date: 2026-10-22
+permalink: /en/blog/mortgages/mortgage-to-buy-a-home/
 excerpt: "Deposit, purchase costs, affordable instalment and type of rate: the points to clear up before looking for a home, so you do not fall in love with a property that is out of budget."
 seo_title: "Home mortgage: how much can I borrow and what you need before buying"
 seo_description: "Guide to the mortgage for buying a home: deposit, notary fees and taxes, affordable instalment, fixed or variable rate, documents required by the bank."

@@ -3,6 +3,7 @@ layout: single
 ref: quanto-vale
 title: "Quanto vale la tua casa? I 6 fattori che decidono il prezzo"
 date: 2026-10-22
+permalink: /blog/vendere/quanto-vale-la-tua-casa/
 excerpt: "Zona, metri commerciali, stato dell'immobile, classe energetica: cosa conta davvero quando si stima il valore di una casa e perché il prezzo giusto vende prima."
 seo_title: "Quanto vale la mia casa: come si stima il prezzo di vendita"
 seo_description: "Come si valuta un immobile: zona, superficie commerciale, piano, stato, classe energetica e mercato. Guida pratica per chi vuole vendere casa al prezzo giusto."

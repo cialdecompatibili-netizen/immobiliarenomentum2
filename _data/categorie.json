@@ -2,5 +2,13 @@
   {
     "nome": "blog",
     "descrizione": "Novita', approfondimenti e dietro le quinte"
+  },
+  {
+    "nome": "vendere",
+    "descrizione": "Guide pratiche per vendere casa: valutazione, documenti e preparazione alle visite."
+  },
+  {
+    "nome": "mutui",
+    "descrizione": "Mutui e finanziamenti per comprare casa, spiegati semplici."
   }
 ]

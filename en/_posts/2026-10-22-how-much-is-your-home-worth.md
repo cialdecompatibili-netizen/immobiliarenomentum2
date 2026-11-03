@@ -3,6 +3,7 @@ layout: single
 ref: quanto-vale
 title: "How much is your home worth? The 6 factors that decide the price"
 date: 2026-10-22
+permalink: /en/blog/selling/how-much-is-your-home-worth/
 excerpt: "Area, commercial square metres, condition of the property, energy class: what really matters when estimating the value of a home, and why the right price sells sooner."
 seo_title: "How much is my home worth: how the selling price is estimated"
 seo_description: "How a property is valued: area, commercial surface, floor, condition, energy class and market. A practical guide for anyone who wants to sell a home at the right price."

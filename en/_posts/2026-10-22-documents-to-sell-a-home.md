@@ -3,6 +3,7 @@ layout: single
 ref: documenti-vendere
 title: "Selling a home: the documents to prepare before listing it"
 date: 2026-10-22
+permalink: /en/blog/selling/documents-to-sell-a-home/
 excerpt: "Title deed, land registry floor plan, energy certificate, planning compliance: the checklist to avoid delays and deals that fall through at the last minute."
 seo_title: "Documents needed to sell a home: the complete checklist"
 seo_description: "Which documents you need to sell a property: title deed, land registry search and floor plan, energy certificate, planning compliance, service charges. Practical checklist."

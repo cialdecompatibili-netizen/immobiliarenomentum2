@@ -3,6 +3,7 @@ layout: single
 ref: documenti-vendere
 title: "Vendere casa: i documenti da preparare prima di mettere l'annuncio"
 date: 2026-10-22
+permalink: /blog/vendere/documenti-per-vendere-casa/
 excerpt: "Atto di provenienza, planimetria catastale, attestato energetico, conformità edilizia: la checklist per evitare ritardi e trattative che saltano all'ultimo."
 seo_title: "Documenti per vendere casa: la checklist completa"
 seo_description: "Quali documenti servono per vendere un immobile: atto di provenienza, visura e planimetria catastale, APE, conformità edilizia, spese condominiali. Checklist pratica."

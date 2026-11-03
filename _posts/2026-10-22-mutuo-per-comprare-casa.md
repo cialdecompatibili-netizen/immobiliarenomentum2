@@ -3,6 +3,7 @@ layout: single
 ref: mutuo-comprare
 title: "Mutuo per comprare casa: come capire quanto puoi chiedere alla banca"
 date: 2026-10-22
+permalink: /blog/mutui/mutuo-per-comprare-casa/
 excerpt: "Anticipo, spese di acquisto, rata sostenibile e tipo di tasso: i punti da chiarire prima di cercare casa, per non innamorarti di un immobile fuori budget."
 seo_title: "Mutuo casa: quanto posso chiedere e cosa serve prima di comprare"
 seo_description: "Guida al mutuo per l'acquisto della casa: anticipo, spese notarili e imposte, rata sostenibile, tasso fisso o variabile, documenti richiesti dalla banca."
