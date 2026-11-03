@@ -29,7 +29,7 @@ Qui trovi le guide dedicate a ogni zona:
 - [Comprare casa a Roma nord](/blog/comprare/comprare-casa-roma-nord/)
 - [Comprare casa a Roma est](/blog/comprare/comprare-casa-roma-est/)
 - [Comprare casa al Nomentano](/blog/comprare/comprare-casa-nomentano/)
-- [Comprare casa in Sabina](/blog/comprare/comprare-casa-sabina/)
+- [Comprare casa nella Sabina](/blog/comprare/comprare-casa-sabina/)
 
 ## Da dove partire
 

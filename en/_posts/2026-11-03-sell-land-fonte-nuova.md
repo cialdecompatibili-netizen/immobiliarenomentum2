@@ -13,7 +13,7 @@ categories:
   - selling
 lang: en
 locale: en
-tr: tradotto
+tr: da_aggiornare
 tr_hash: pwomkn
 ---
 

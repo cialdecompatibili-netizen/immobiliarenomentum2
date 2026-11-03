@@ -29,7 +29,7 @@ Qui trovi le guide dedicate a ogni zona:
 - [Vendere casa a Roma nord](/blog/vendere/vendere-casa-roma-nord/)
 - [Vendere casa a Roma est](/blog/vendere/vendere-casa-roma-est/)
 - [Vendere casa al Nomentano](/blog/vendere/vendere-casa-nomentano/)
-- [Vendere casa in Sabina](/blog/vendere/vendere-casa-sabina/)
+- [Vendere casa nella Sabina](/blog/vendere/vendere-casa-sabina/)
 
 ## Come scegliere da dove partire
 

@@ -76,6 +76,6 @@ Contattaci per un **sopralluogo senza impegno** o per una **valutazione online**
 
 - [Come vendere un terreno a Mentana?](/blog/vendere/vendere-terreno-mentana/)
 - [Come vendere un terreno a Monterotondo?](/blog/vendere/vendere-terreno-monterotondo/)
-- [Come vendere un terreno in Sabina?](/blog/vendere/vendere-terreno-sabina/)
+- [Come vendere un terreno nella Sabina?](/blog/vendere/vendere-terreno-sabina/)
 - [Come vendere un terreno a nord-est di Roma?](/blog/vendere/vendere-terreno-nord-est-roma/)
 - [Come vendere casa a Fonte Nuova?](/blog/vendere/vendere-casa-fonte-nuova/)
