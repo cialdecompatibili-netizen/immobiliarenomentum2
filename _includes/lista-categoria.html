@@ -92,7 +92,7 @@ NON toccare: gli attributi data-pg* abilitano la paginazione del sito (assets/js
     {%- assign kick = cat_nome -%}
     {%- if all_mode -%}{%- assign pcs = p.categories | where_exp: "c", "c != page.lang" -%}{%- assign kick = pcs | first -%}{%- endif %}
     <li class="cl-item">
-      <a class="cl-img" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true">{% if p.header.teaser %}<img src="{{ p.header.teaser | relative_url }}" alt="" loading="lazy">{% endif %}</a>
+      <a class="cl-img" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true">{% if p.header.teaser %}<img src="{{ p.header.teaser | replace: '/assets/foto/blog/', '/assets/foto/blog/t/' | relative_url }}" onerror="this.onerror=null;this.src='{{ p.header.teaser | relative_url }}'" alt="" loading="lazy">{% endif %}</a>
       <div class="cl-body">
         <span class="cl-kick">{{ kick }}</span>
         <a class="cl-title" href="{{ p.url | relative_url }}">{{ p.title }}</a>

@@ -98,7 +98,7 @@ Gli stili stanno qui dentro in <style> con !important perche' devono vincere sul
       {%- for p in posts_l -%}
         {%- if p.url != page.url and shown < 5 -%}
         <li><a class="ps-post" href="{{ p.url | relative_url }}">
-          {%- if p.header.teaser -%}<img src="{{ p.header.teaser | relative_url }}" alt="" loading="lazy">{%- else -%}<span class="ps-ph"></span>{%- endif -%}
+          {%- if p.header.teaser -%}<img src="{{ p.header.teaser | replace: '/assets/foto/blog/', '/assets/foto/blog/t/' | relative_url }}" onerror="this.onerror=null;this.src='{{ p.header.teaser | relative_url }}'" alt="" loading="lazy">{%- else -%}<span class="ps-ph"></span>{%- endif -%}
           <span>{{ p.title }}</span></a></li>
         {%- assign shown = shown | plus: 1 -%}
         {%- endif -%}

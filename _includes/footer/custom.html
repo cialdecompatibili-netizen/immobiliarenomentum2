@@ -28,6 +28,13 @@ function closeLightbox() {
   document.body.style.overflow = '';
 }
 document.addEventListener('keydown', function(e) { if (e.key === 'Escape') closeLightbox(); });
+/* Foto degli articoli: clic = schermo intero (copertina .post-cover e immagini nel testo, se non sono gia' dentro un link) */
+document.addEventListener('click', function(e) {
+  var im = e.target.closest('.post-cover img, .page__content img');
+  if (!im || im.closest('a, .lightbox-trigger') || (im.naturalWidth && im.naturalWidth < 300)) return;
+  openLightbox(im.currentSrc || im.src, im.alt);
+});
+(function(){var s=document.createElement('style');s.textContent='.post-cover img,.page__content img:not(a img){cursor:zoom-in}';document.head.appendChild(s);})();
 document.addEventListener('click', function(e) {
   var trig = e.target.closest('.lightbox-trigger');
   if (trig) {
