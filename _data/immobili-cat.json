@@ -1,15 +1,337 @@
 [
-  {"nome":"Case","slug":"case","parent":""},
-  {"nome":"Appartamenti","slug":"appartamenti","parent":"case"},
-  {"nome":"Attici","slug":"attici","parent":"case"},
-  {"nome":"Villini","slug":"villini","parent":"case"},
-  {"nome":"Ville","slug":"ville","parent":""},
-  {"nome":"Terreni","slug":"terreni","parent":""},
-  {"nome":"Terreno edificabile","slug":"terreno-edificabile","parent":"terreni"},
-  {"nome":"Terreno agricolo","slug":"terreno-agricolo","parent":"terreni"},
-  {"nome":"Box e parcheggi","slug":"box-parcheggi","parent":""},
-  {"nome":"Cantine","slug":"cantine","parent":""},
-  {"nome":"Locali commerciali","slug":"locali-commerciali","parent":""},
-  {"nome":"Uffici","slug":"uffici","parent":""},
-  {"nome":"Magazzini","slug":"magazzini","parent":""}
+  {
+    "nome": "Case",
+    "slug": "case",
+    "parent": ""
+  },
+  {
+    "nome": "Monolocali",
+    "slug": "monolocali",
+    "parent": "case"
+  },
+  {
+    "nome": "Bilocali",
+    "slug": "bilocali",
+    "parent": "case"
+  },
+  {
+    "nome": "Trilocali",
+    "slug": "trilocali",
+    "parent": "case"
+  },
+  {
+    "nome": "Quadrilocali e oltre",
+    "slug": "quadrilocali-e-oltre",
+    "parent": "case"
+  },
+  {
+    "nome": "Appartamenti",
+    "slug": "appartamenti",
+    "parent": "case"
+  },
+  {
+    "nome": "Attici",
+    "slug": "attici",
+    "parent": "case"
+  },
+  {
+    "nome": "Mansarde",
+    "slug": "mansarde",
+    "parent": "case"
+  },
+  {
+    "nome": "Loft",
+    "slug": "loft",
+    "parent": "case"
+  },
+  {
+    "nome": "Villini",
+    "slug": "villini",
+    "parent": "case"
+  },
+  {
+    "nome": "Case indipendenti",
+    "slug": "case-indipendenti",
+    "parent": "case"
+  },
+  {
+    "nome": "Case a schiera",
+    "slug": "case-a-schiera",
+    "parent": "case"
+  },
+  {
+    "nome": "Bifamiliari",
+    "slug": "bifamiliari",
+    "parent": "case"
+  },
+  {
+    "nome": "Rustici e casali",
+    "slug": "rustici-e-casali",
+    "parent": "case"
+  },
+  {
+    "nome": "Case di paese",
+    "slug": "case-di-paese",
+    "parent": "case"
+  },
+  {
+    "nome": "Seminterrati e taverne",
+    "slug": "seminterrati-e-taverne",
+    "parent": "case"
+  },
+  {
+    "nome": "Piani di villa",
+    "slug": "piani-di-villa",
+    "parent": "case"
+  },
+  {
+    "nome": "Ville",
+    "slug": "ville",
+    "parent": ""
+  },
+  {
+    "nome": "Ville singole",
+    "slug": "ville-singole",
+    "parent": "ville"
+  },
+  {
+    "nome": "Ville a schiera",
+    "slug": "ville-a-schiera",
+    "parent": "ville"
+  },
+  {
+    "nome": "Ville bifamiliari",
+    "slug": "ville-bifamiliari",
+    "parent": "ville"
+  },
+  {
+    "nome": "Ville di pregio",
+    "slug": "ville-di-pregio",
+    "parent": "ville"
+  },
+  {
+    "nome": "Terreni",
+    "slug": "terreni",
+    "parent": ""
+  },
+  {
+    "nome": "Terreno edificabile",
+    "slug": "terreno-edificabile",
+    "parent": "terreni"
+  },
+  {
+    "nome": "Terreno agricolo",
+    "slug": "terreno-agricolo",
+    "parent": "terreni"
+  },
+  {
+    "nome": "Terreno boschivo",
+    "slug": "terreno-boschivo",
+    "parent": "terreni"
+  },
+  {
+    "nome": "Uliveti e vigneti",
+    "slug": "uliveti-e-vigneti",
+    "parent": "terreni"
+  },
+  {
+    "nome": "Terreno industriale",
+    "slug": "terreno-industriale",
+    "parent": "terreni"
+  },
+  {
+    "nome": "Lotti e aree urbane",
+    "slug": "lotti-e-aree-urbane",
+    "parent": "terreni"
+  },
+  {
+    "nome": "Box e posti auto",
+    "slug": "box-parcheggi",
+    "parent": ""
+  },
+  {
+    "nome": "Box auto",
+    "slug": "box-auto",
+    "parent": "box-parcheggi"
+  },
+  {
+    "nome": "Garage",
+    "slug": "garage",
+    "parent": "box-parcheggi"
+  },
+  {
+    "nome": "Posti auto",
+    "slug": "posti-auto",
+    "parent": "box-parcheggi"
+  },
+  {
+    "nome": "Posti moto",
+    "slug": "posti-moto",
+    "parent": "box-parcheggi"
+  },
+  {
+    "nome": "Cantine e soffitte",
+    "slug": "cantine-soffitte",
+    "parent": ""
+  },
+  {
+    "nome": "Cantine",
+    "slug": "cantine",
+    "parent": "cantine-soffitte"
+  },
+  {
+    "nome": "Soffitte",
+    "slug": "soffitte",
+    "parent": "cantine-soffitte"
+  },
+  {
+    "nome": "Depositi e ripostigli",
+    "slug": "depositi-e-ripostigli",
+    "parent": "cantine-soffitte"
+  },
+  {
+    "nome": "Lastrici solari",
+    "slug": "lastrici-solari",
+    "parent": "cantine-soffitte"
+  },
+  {
+    "nome": "Locali tecnici",
+    "slug": "locali-tecnici",
+    "parent": "cantine-soffitte"
+  },
+  {
+    "nome": "Locali commerciali",
+    "slug": "locali-commerciali",
+    "parent": ""
+  },
+  {
+    "nome": "Negozi",
+    "slug": "negozi",
+    "parent": "locali-commerciali"
+  },
+  {
+    "nome": "Bar e ristoranti",
+    "slug": "bar-e-ristoranti",
+    "parent": "locali-commerciali"
+  },
+  {
+    "nome": "Laboratori",
+    "slug": "laboratori",
+    "parent": "locali-commerciali"
+  },
+  {
+    "nome": "Showroom",
+    "slug": "showroom",
+    "parent": "locali-commerciali"
+  },
+  {
+    "nome": "Locali con locazione in corso",
+    "slug": "locali-con-locazione-in-corso",
+    "parent": "locali-commerciali"
+  },
+  {
+    "nome": "Uffici",
+    "slug": "uffici",
+    "parent": ""
+  },
+  {
+    "nome": "Studi professionali",
+    "slug": "studi-professionali",
+    "parent": "uffici"
+  },
+  {
+    "nome": "Uffici open space",
+    "slug": "uffici-open-space",
+    "parent": "uffici"
+  },
+  {
+    "nome": "Coworking",
+    "slug": "coworking",
+    "parent": "uffici"
+  },
+  {
+    "nome": "Magazzini e capannoni",
+    "slug": "magazzini-capannoni",
+    "parent": ""
+  },
+  {
+    "nome": "Magazzini",
+    "slug": "magazzini",
+    "parent": "magazzini-capannoni"
+  },
+  {
+    "nome": "Capannoni",
+    "slug": "capannoni",
+    "parent": "magazzini-capannoni"
+  },
+  {
+    "nome": "Opifici",
+    "slug": "opifici",
+    "parent": "magazzini-capannoni"
+  },
+  {
+    "nome": "Depositi commerciali",
+    "slug": "depositi-commerciali",
+    "parent": "magazzini-capannoni"
+  },
+  {
+    "nome": "Strutture ricettive",
+    "slug": "strutture-ricettive",
+    "parent": ""
+  },
+  {
+    "nome": "Alberghi",
+    "slug": "alberghi",
+    "parent": "strutture-ricettive"
+  },
+  {
+    "nome": "B&B e case vacanza",
+    "slug": "bb-e-case-vacanza",
+    "parent": "strutture-ricettive"
+  },
+  {
+    "nome": "Agriturismi",
+    "slug": "agriturismi",
+    "parent": "strutture-ricettive"
+  },
+  {
+    "nome": "Stabilimenti",
+    "slug": "stabilimenti",
+    "parent": "strutture-ricettive"
+  },
+  {
+    "nome": "Immobili particolari",
+    "slug": "immobili-particolari",
+    "parent": ""
+  },
+  {
+    "nome": "Ruderi",
+    "slug": "ruderi",
+    "parent": "immobili-particolari"
+  },
+  {
+    "nome": "Immobili non abitabili",
+    "slug": "immobili-non-abitabili",
+    "parent": "immobili-particolari"
+  },
+  {
+    "nome": "Accatastati come magazzino o deposito",
+    "slug": "accatastati-come-magazzino-o-deposito",
+    "parent": "immobili-particolari"
+  },
+  {
+    "nome": "Nuda proprieta",
+    "slug": "nuda-proprieta",
+    "parent": "immobili-particolari"
+  },
+  {
+    "nome": "Aste e occasioni",
+    "slug": "aste-e-occasioni",
+    "parent": "immobili-particolari"
+  },
+  {
+    "nome": "Altro",
+    "slug": "altro",
+    "parent": "immobili-particolari"
+  }
 ]
