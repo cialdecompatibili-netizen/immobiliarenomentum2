@@ -7,6 +7,7 @@ author_profile: false
 description: "Valutazione gratuita della tua casa a Mentana, Monterotondo e Roma nord: stima ragionata, piano di vendita e risposta in 24 ore."
 seo_description: "Valutazione gratuita della tua casa a Mentana, Monterotondo e Roma nord: stima ragionata, piano di vendita e risposta in 24 ore."
 ref: vendi
+no_toc: true
 ---
 
 <style>.page__title{display:none}</style>

@@ -7,10 +7,11 @@ author_profile: false
 description: "Free valuation of your home in Mentana, Monterotondo and north Rome: a reasoned estimate, a sales plan and a reply within 24 hours."
 seo_description: "Free valuation of your home in Mentana, Monterotondo and north Rome: a reasoned estimate, a sales plan and a reply within 24 hours."
 ref: vendi
+no_toc: true
 lang: en
 locale: en
-tr: da_aggiornare
-tr_hash: ikn4ug
+tr: tradotto
+tr_hash: 1u3n4xy
 ---
 
 <style>.page__title{display:none}</style>
