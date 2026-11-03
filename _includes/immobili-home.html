@@ -1,0 +1,7 @@
+{%- comment -%}
+GUIDA-SVILUPPO: blocco "Immobili" della home, richiamato da render-blocks.html per il blocco con id "immobili". Mostra SOLO gli immobili con preferito: true (ordine = campo ordine), massimo 6, e il bottone verso /immobili/ con tutti gli immobili. Gestione: admin > Immobili.
+{%- endcomment -%}
+{% assign im_pref = site.immobili | where: "preferito", true | sort: "ordine" %}
+<div class="gc"><section class="gc-sec" id="immobili"><div class="gc-wrap"><div class="im-head"><div><p class="gc-eyebrow">Immobili</p><h2 class="gc-h2">Selezione in evidenza</h2></div><a class="gc-btn gc-btn-k" href="{{ '/immobili/' | relative_url }}">Tutti gli immobili</a></div>
+{% if im_pref.size > 0 %}<div class="gc-plat">{% for im in im_pref limit: 6 %}{% include immobile-card.html i=im %}{% endfor %}</div>{% endif %}
+<p class="gc-lead">Cerchi qualcosa di specifico? <a href="{{ '/contatti/' | relative_url }}">Descrivici la ricerca</a>.</p></div></section></div>

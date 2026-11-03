@@ -1,0 +1,15 @@
+[
+  {"nome":"Case","slug":"case","parent":""},
+  {"nome":"Appartamenti","slug":"appartamenti","parent":"case"},
+  {"nome":"Attici","slug":"attici","parent":"case"},
+  {"nome":"Villini","slug":"villini","parent":"case"},
+  {"nome":"Ville","slug":"ville","parent":""},
+  {"nome":"Terreni","slug":"terreni","parent":""},
+  {"nome":"Terreno edificabile","slug":"terreno-edificabile","parent":"terreni"},
+  {"nome":"Terreno agricolo","slug":"terreno-agricolo","parent":"terreni"},
+  {"nome":"Box e parcheggi","slug":"box-parcheggi","parent":""},
+  {"nome":"Cantine","slug":"cantine","parent":""},
+  {"nome":"Locali commerciali","slug":"locali-commerciali","parent":""},
+  {"nome":"Uffici","slug":"uffici","parent":""},
+  {"nome":"Magazzini","slug":"magazzini","parent":""}
+]

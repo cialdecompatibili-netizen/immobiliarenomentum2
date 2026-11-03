@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /en/
   - title: "Properties"
-    url: /en/#immobili
+    url: /immobili/
   - title: "Sell"
     url: /en/sell/
   - title: "Mortgages"

@@ -1,0 +1,14 @@
+---
+layout: single
+---
+{%- comment -%}
+GUIDA-SVILUPPO: pagina di un immobile (collection _immobili). Campi front matter: title, categoria (slug da _data/immobili-cat.json), contratto (vendita|affitto), zona, prezzo, foto, dati (voci separate da |), preferito, ordine. Il testo libero e' il corpo del file.
+{%- endcomment -%}
+<div class="gc"><div class="gc-wrap">
+{% if page.foto %}<img class="im-ph" src="{{ page.foto | relative_url }}" alt="{{ page.title | escape }}" style="width:100%;max-width:820px;height:auto;aspect-ratio:4/3;object-fit:cover;border-radius:14px;margin-bottom:1rem">{% endif %}
+<span class="gc-eyebrow">{% if page.contratto == "affitto" %}In affitto{% else %}In vendita{% endif %}{% if page.zona %} - {{ page.zona }}{% endif %}</span>
+{% if page.dati %}<ul class="im-meta">{% assign im_d = page.dati | split: "|" %}{% for x in im_d %}<li>{{ x | strip }}</li>{% endfor %}</ul>{% endif %}
+{% if page.prezzo %}<p class="im-price">{{ page.prezzo }}</p>{% endif %}
+{{ content }}
+<p><a class="gc-btn gc-btn-a" href="{{ '/contatti/' | relative_url }}?immobile={{ page.slug }}">Richiedi informazioni</a> <a class="gc-btn gc-btn-o" href="{{ '/immobili/' | relative_url }}">Tutti gli immobili</a></p>
+</div></div>

@@ -94,6 +94,9 @@ collections:
   progetti:
     output: true
     permalink: /progetti/:name/
+  immobili:
+    output: true
+    permalink: /immobili/:name/
 
 # _pages/ contiene le pagine del sito (il tema non le vede se non e' elencata qui).
 include:
