@@ -7,6 +7,8 @@ permalink: /blog/vendere/vendere-casa-sabina/
 excerpt: "Vendere casa in Sabina: casali, rustici e ville a nord di Roma. Come stimare il prezzo, quali documenti servono e dove cercano gli acquirenti. Sopralluogo senza impegno o online."
 seo_title: "Vendere casa in Sabina: casali, rustici e ville, prezzo e documenti"
 seo_description: "Come vendere un casale, un rustico o una villa in Sabina: valutazione, documenti, tempi e consigli."
+header:
+  teaser: /assets/foto/blog/vendere-casa-sabina.jpg
 categories:
   - vendere
 ---

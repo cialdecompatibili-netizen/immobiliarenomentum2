@@ -7,6 +7,8 @@ permalink: /blog/vendere/vendere-casa-nord-est-roma/
 excerpt: "Guida per chi vuole vendere casa a nord-est di Roma: confronto tra Mentana, Monterotondo, Fonte Nuova, Nomentano, Roma nord e est e Sabina. Sopralluogo senza impegno o online."
 seo_title: "Vendere casa a nord-est di Roma: Mentana, Monterotondo, Fonte Nuova, Sabina"
 seo_description: "Come vendere casa a nord-est di Roma: differenze tra Mentana, Monterotondo, Fonte Nuova, Nomentano, Roma nord e est e Sabina."
+header:
+  teaser: /assets/foto/blog/vendere-casa-nord-est-roma.jpg
 categories:
   - vendere
 ---
