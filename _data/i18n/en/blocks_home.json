@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "id": "hero",
     "nome": "Hero",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Mentana, Monterotondo and north Rome</p><h1 class=\"gc-h1\">How much is your home worth? <em>Find out for free.</em></h1><p class=\"gc-lead\">Sales, rentals and mortgage advice in Mentana, Monterotondo and north Rome. One point of contact from the first viewing to the deed.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/en/sell/\">Value your home</a><a class=\"gc-btn gc-btn-o\" href=\"#immobili\">See the properties</a></div></div><div class=\"ent-cycle\"><div><b>Free valuation</b><span>reply within 24 hours</span></div><div><b>One point of contact</b><span>from viewing to deed</span></div><div><b>Mentana and north Rome</b><span>Monterotondo, Fonte Nuova</span></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><h1 class=\"gc-h1\">Sell your home quickly and well.</h1><p class=\"gc-lead\">Free valuation and one point of contact, from the first viewing to the deed.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/en/sell/\">Value your home</a><a class=\"gc-btn gc-btn-o\" href=\"#immobili\">See the properties</a></div></div><div class=\"hv-vid\"><video autoplay muted loop playsinline preload=\"metadata\" poster=\"__BASEURL__/assets/video/agente-immobiliare.jpg\" aria-hidden=\"true\"><source src=\"__BASEURL__/assets/video/agente-immobiliare.mp4\" type=\"video/mp4\"></video></div></div></section></div>"
   },
   {
     "id": "immobili",

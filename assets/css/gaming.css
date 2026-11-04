@@ -123,3 +123,6 @@
 @media(max-width:900px){.im-3{grid-template-columns:1fr 1fr}.im-steps{grid-template-columns:1fr 1fr}.im-top{grid-template-columns:1fr}.im-box{grid-template-columns:1fr}}
 @media(max-width:820px){.im-bar{display:block;position:fixed;left:0;right:0;bottom:0;z-index:50;padding:.6rem 1rem;background:#fff;border-top:1px solid var(--gc-line)}.im-bar a{width:100%;box-sizing:border-box;text-align:center}body{padding-bottom:4.5rem}}
 @media(max-width:600px){.im-3,.im-steps{grid-template-columns:1fr}}
+
+.hv-vid video{display:block;width:100%;height:auto;max-height:520px;object-fit:cover;border-radius:14px}
+@media(prefers-reduced-motion:reduce){.hv-vid video{display:none}}

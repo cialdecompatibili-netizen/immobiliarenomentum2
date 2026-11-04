@@ -3,7 +3,7 @@
     "id": "hero",
     "nome": "Hero",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Mentana, Monterotondo e Roma nord</p><h1 class=\"gc-h1\">Quanto vale la tua casa? <em>Scoprilo gratis.</em></h1><p class=\"gc-lead\">Compravendita, locazioni e consulenza sul mutuo a Mentana, Monterotondo e Roma nord. Un solo referente dalla prima visita al rogito.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/vendi/\">Valuta la tua casa</a><a class=\"gc-btn gc-btn-o\" href=\"#immobili\">Vedi gli immobili</a></div></div><div class=\"ent-cycle\"><div><b>Valutazione gratuita</b><span>risposta entro 24 ore</span></div><div><b>Un solo referente</b><span>dalla visita al rogito</span></div><div><b>Mentana e Roma nord</b><span>Monterotondo, Fonte Nuova</span></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><h1 class=\"gc-h1\">Vendi la tua casa velocemente e bene.</h1><p class=\"gc-lead\">Valutazione gratuita e un solo referente, dalla prima visita al rogito.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/vendi/\">Valuta la tua casa</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/immobili/\">Vedi gli immobili</a></div></div><div class=\"hv-vid\"><video autoplay muted loop playsinline preload=\"metadata\" poster=\"__BASEURL__/assets/video/agente-immobiliare.jpg\" aria-hidden=\"true\"><source src=\"__BASEURL__/assets/video/agente-immobiliare.mp4\" type=\"video/mp4\"></video></div></div></section></div>"
   },
   {
     "id": "immobili",
