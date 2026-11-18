@@ -9,7 +9,7 @@ NOTA: i testi di questo include sono in italiano fisso e NON passano da ui-text.
     testo="..."   -> frase della striscia mini (facoltativa)
   Il messaggio WhatsApp parte gia' compilato con il nome del servizio.
 {%- endcomment -%}
-{%- assign sv_msg = "Buongiorno, vorrei un sopralluogo gratuito e un preventivo per: " | append: page.title | append: "." -%}
+{%- assign sv_msg = "Buongiorno, vorrei informazioni sul servizio: " | append: page.title | append: "." -%}
 {%- assign sv_wa = "https://wa.me/" | append: site.whatsapp | append: "?text=" | append: sv_msg | url_encode -%}
 {%- if site.whatsapp == "" -%}{%- assign sv_wa = "#" -%}{%- endif -%}
 {%- unless sv_css_done -%}
@@ -39,13 +39,13 @@ NOTA: i testi di questo include sono in italiano fisso e NON passano da ui-text.
 {%- endunless -%}
 {%- if include.tipo == "mini" -%}
 <div class="sv-mini">
-  <p>{{ include.testo | default: "Hai un dubbio o vuoi una risposta rapida? Scrivici due righe e una foto su WhatsApp." }}</p>
+  <p>{{ include.testo | default: "Hai un dubbio o vuoi una risposta rapida? Scrivici due righe su WhatsApp." }}</p>
   <a class="sv-btn sv-btn--wa" href="{{ sv_wa }}" target="_blank" rel="noopener">Scrivici su WhatsApp</a>
 </div>
 {%- else -%}
-<aside class="sv-cta" aria-label="Richiedi un preventivo">
-  <p class="sv-cta__title">Parliamone: sopralluogo gratuito, preventivo chiaro</p>
-  <p>Il modo più veloce è WhatsApp: scrivici cosa c'è da fare e allega 2 o 3 foto del punto (anche scattate da terra). Ti diciamo subito come procedere, senza impegno.</p>
+<aside class="sv-cta" aria-label="Contattaci">
+  <p class="sv-cta__title">Parliamone: consulenza gratuita, nessun impegno</p>
+  <p>Il modo più veloce è WhatsApp: scrivici di cosa hai bisogno e ti rispondiamo con le indicazioni per procedere, senza impegno.</p>
   <div class="sv-cta__row">
     <a class="sv-btn sv-btn--wa" href="{{ sv_wa }}" target="_blank" rel="noopener">Scrivici su WhatsApp</a>
     <a class="sv-btn sv-btn--tel" href="{% if site.whatsapp != '' %}tel:+{{ site.whatsapp }}{% else %}#{% endif %}">{% if site.whatsapp != '' %}Chiama +{{ site.whatsapp }}{% else %}Chiama (numero in arrivo){% endif %}</a>

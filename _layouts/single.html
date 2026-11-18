@@ -72,7 +72,7 @@ PER CAMBIARE COSA COMPARE usa il front matter della pagina (header, share, relat
         {%- comment -%} Pagine servizio: FAQ + dati strutturati, poi blocco CTA finale (WhatsApp, telefono, modulo) {%- endcomment -%}
         {% if page.collection == "servizi" or page.collection == "progetti" %}
           {% assign ft = site.data.foto_temi[page.slug] | default: "team" %}
-          {% include ex-galleria.html temi=ft max=6 gruppo="pagina" %}
+          {% if site.data.foto.size > 1 %}{% include ex-galleria.html temi=ft max=6 gruppo="pagina" %}{% endif %}
         {% endif %}
         {% if page.collection == "servizi" %}
           {% include servizio-faq.html %}

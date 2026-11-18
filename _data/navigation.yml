@@ -19,7 +19,7 @@ main:
   - title: "Mutui"
     url: /#mutui
   - title: "Servizi"
-    url: /#servizi
+    url: /servizi/
   - title: "Blog"
     url: /blog/
   - title: "Shop"
