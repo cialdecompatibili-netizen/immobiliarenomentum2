@@ -85,6 +85,36 @@
     "parent": "case"
   },
   {
+    "nome": "Affitti",
+    "slug": "affitti",
+    "parent": ""
+  },
+  {
+    "nome": "Appartamenti in affitto",
+    "slug": "appartamenti-in-affitto",
+    "parent": "affitti"
+  },
+  {
+    "nome": "Ville e piani in affitto",
+    "slug": "ville-e-piani-in-affitto",
+    "parent": "affitti"
+  },
+  {
+    "nome": "Box e posti auto in affitto",
+    "slug": "box-e-posti-auto-in-affitto",
+    "parent": "affitti"
+  },
+  {
+    "nome": "Locali e uffici in affitto",
+    "slug": "locali-e-uffici-in-affitto",
+    "parent": "affitti"
+  },
+  {
+    "nome": "Affitti brevi e case vacanza",
+    "slug": "affitti-brevi-e-case-vacanza",
+    "parent": "affitti"
+  },
+  {
     "nome": "Ville",
     "slug": "ville",
     "parent": ""

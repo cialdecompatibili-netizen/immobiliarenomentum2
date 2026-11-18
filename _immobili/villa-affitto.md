@@ -3,7 +3,7 @@ layout: immobile
 author_profile: false
 classes: wide
 title: "Villa o singoli piani in affitto"
-categoria: "ville"
+categoria: "ville-e-piani-in-affitto"
 contratto: "affitto"
 zona: "Mentana, zona Mezzaluna"
 prezzo: "Prezzo su richiesta"

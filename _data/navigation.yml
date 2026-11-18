@@ -12,6 +12,8 @@ main:
     url: /
   - title: "Immobili"
     url: /immobili/
+  - title: "Affitti"
+    url: /immobili/#affitti
   - title: "Vendi"
     url: /vendi/
   - title: "Mutui"
